@@ -1,0 +1,51 @@
+---
+categories:
+  - "[[Recipes]]"
+cuisine: "[[American]]"
+type:
+  - "[[Dessert]]"
+subtype:
+  - "[[Cookie]]"
+ingredients:
+  - "[[Chocolate]]"
+author: David Leite
+source: NYT Cooking
+url: https://cooking.nytimes.com/recipes/1015819-chocolate-chip-cookies
+favorite: false
+yellow_book: true
+passover_recipes: false
+servings: 1 1/2 dozen 5-inch cookies
+created: 2026-08-02
+last: 2026-08-02
+tags:
+  - "reference"
+---
+Time: 45 minutes, plus chilling. You may have memorized the foolproof gem on the back of the Toll House bag, given to the world by Ruth Graves Wakefield in the 1930s. But this may become your new favorite chocolate chip cookie recipe. It's a little more complicated, and you'll have to plan ahead: after assembling the dough, you must chill it for at least 24 hours before baking it, and preferably up to 36. This allows the dry ingredients time to soak up the wet ones, which results in a firmer dough. It leads to a marvelously chewy, chocolate-rich cookie. Don't skimp on good chocolate, and the sea salt is not an option — it's the beacon at the top of this gorgeous treat. Adapted From Jacques Torres.
+
+## Ingredients
+
+- 2 cups minus 2 tablespoons cake flour (8 1/2 ounces)
+- 1 2/3 cups bread flour (8 1/2 ounces)
+- 1 1/4 teaspoons baking soda
+- 1 1/2 teaspoons baking powder
+- 1 1/2 teaspoons coarse salt
+- 1 1/4 cups unsalted butter (2 1/2 sticks)
+- 1 1/4 cups light brown sugar (10 ounces)
+- 1 cup plus 2 tablespoons granulated sugar (8 ounces)
+- 2 large eggs
+- 2 teaspoons natural vanilla extract
+- 1 1/4 pounds bittersweet chocolate disks or fèves, at least 60 percent cacao content (see note)
+- Sea salt
+
+## Directions
+
+1. Sift flours, baking soda, baking powder and salt into a bowl. Set aside.
+2. Using a mixer fitted with paddle attachment, cream butter and sugars together until very light, about 5 minutes. Add eggs, one at a time, mixing well after each addition. Stir in the vanilla. Reduce speed to low, add dry ingredients and mix until just combined, 5 to 10 seconds. Drop chocolate pieces in and incorporate them without breaking them. Press plastic wrap against dough and refrigerate for 24 to 36 hours. Dough may be used in batches, and can be refrigerated for up to 72 hours.
+3. When ready to bake, preheat oven to 350 degrees. Line a baking sheet with parchment paper or a nonstick baking mat. Set aside.
+4. Scoop 6 3 1/2-ounce mounds of dough (the size of generous golf balls) onto baking sheet, making sure to turn horizontally any chocolate pieces that are poking up; it will make for a more attractive cookie. Sprinkle lightly with sea salt and bake until golden brown but still soft, 18 to 20 minutes. Transfer sheet to a wire rack for 10 minutes, then slip cookies onto another rack to cool a bit more. Repeat with remaining dough, or reserve dough, refrigerated, for baking remaining batches the next day. Eat warm, with a big napkin.
+
+**Tip:** Disks are sold at Jacques Torres Chocolate; Valrhona fèves, oval-shaped chocolate pieces, are at Whole Foods.
+
+## Notes
+
+- 
