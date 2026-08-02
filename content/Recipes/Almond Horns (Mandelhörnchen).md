@@ -12,13 +12,13 @@ ingredients:
 author: Deb Perelman
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2017/04/almond-horn-cookies/
-favorite: false
+favorite: true
 yellow_book: false
-passover_recipes: false
+passover_recipes: true
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 ## Ingredients
 
