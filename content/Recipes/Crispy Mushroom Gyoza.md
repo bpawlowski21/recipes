@@ -1,4 +1,6 @@
 ---
+cssclasses:
+  - recipe
 url: https://food52.com/recipes/84953-crispy-mushroom-gyoza-recipe
 favorite: false
 yellow_book: false

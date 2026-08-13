@@ -1,4 +1,6 @@
 ---
+cssclasses:
+  - recipe
 url: https://cravingsbychrissyteigen.com/cravings/oven-baked-barley-risotto-with-roasted-wild-mushrooms/
 ingredients:
 favorite: false

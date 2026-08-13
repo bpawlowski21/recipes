@@ -1,4 +1,6 @@
 ---
+cssclasses:
+  - recipe
 categories:
   - "[[Recipes]]"
 cuisine: Thai

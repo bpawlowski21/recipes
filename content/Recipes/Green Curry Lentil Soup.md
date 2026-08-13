@@ -1,4 +1,6 @@
 ---
+cssclasses:
+  - recipe
 url: https://www.bonappetit.com/recipe/green-curry-lentil-soup
 favorite: false
 yellow_book: false

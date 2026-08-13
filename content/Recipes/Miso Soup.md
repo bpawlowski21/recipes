@@ -1,4 +1,6 @@
 ---
+cssclasses:
+  - recipe
 url: https://www.thespruceeats.com/basic-miso-soup-3377886
 favorite: false
 yellow_book: false

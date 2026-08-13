@@ -1,4 +1,6 @@
 ---
+cssclasses:
+  - recipe
 url: https://www.bonappetit.com/recipe/sesame-tofu-with-broccoli
 favorite: false
 yellow_book: false
