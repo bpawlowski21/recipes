@@ -14,6 +14,8 @@ author: MP Welty
 source: Allrecipes
 url:
 favorite: true
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 20

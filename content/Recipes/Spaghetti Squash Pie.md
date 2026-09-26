@@ -18,6 +18,8 @@ author: Tessa
 source: Natural Comfort Kitchen
 url: http://www.naturalcomfortkitchen.com/spaghetti-squash-pie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4 servings

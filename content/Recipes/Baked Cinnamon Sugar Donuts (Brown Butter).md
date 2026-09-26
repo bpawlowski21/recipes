@@ -13,6 +13,8 @@ author: Ashley Manila
 source: Baker by Nature
 url: https://bakerbynature.com/brown-butter-cinnamon-sugar-donuts/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

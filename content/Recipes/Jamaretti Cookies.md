@@ -15,6 +15,8 @@ author:
 source: Martha Stewart (Everyday Food, December 2013)
 url: http://www.marthastewart.com/1043782/jamaretti-cookies
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: about 3 dozen

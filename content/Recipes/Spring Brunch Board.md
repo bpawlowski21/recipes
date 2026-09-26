@@ -11,6 +11,8 @@ author: Tieghan Gerard
 source: Half Baked Harvest
 url: https://www.halfbakedharvest.com/ultimate-spring-brunch-board/
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

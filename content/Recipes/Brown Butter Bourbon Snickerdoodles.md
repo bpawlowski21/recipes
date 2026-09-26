@@ -14,6 +14,8 @@ author: Alexandra Stafford
 source: Alexandra Cooks
 url: https://alexandracooks.com/2021/12/10/brown-butter-bourbon-snickerdoodles/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 created: 2026-08-02
 last: 2026-08-02

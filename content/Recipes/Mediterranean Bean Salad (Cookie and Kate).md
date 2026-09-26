@@ -15,6 +15,8 @@ author: "[[Cookie and Kate]]"
 source:
 url: https://cookieandkate.com/mediterranean-bean-salad-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 6

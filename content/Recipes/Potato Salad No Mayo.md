@@ -17,6 +17,8 @@ author: Cheyanne Holzworth
 source: No Spoon Necessary
 url: https://www.nospoonnecessary.com/wprm_print/21177
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 10-12 servings

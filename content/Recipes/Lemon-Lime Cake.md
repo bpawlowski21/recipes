@@ -16,6 +16,8 @@ author: Chef Maya-Camille Broussard
 source: Justice of the Pies, via Katie Couric's Wake-Up Call
 url: https://medium.com/wake-up-call/recipe-the-best-lemon-lime-cake-2b2a4d907954
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

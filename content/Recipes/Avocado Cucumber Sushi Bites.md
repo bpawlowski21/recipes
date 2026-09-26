@@ -17,6 +17,8 @@ author: Maxiskitchen
 source: Instagram
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4 to 6 (appetizer) or 1 to 2 (light lunch/dinner)

@@ -17,6 +17,8 @@ author: Erin Alderson
 source: Naturally Ella
 url: http://naturallyella.com/ginger-bok-choy-soup-with-noodles/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 2 servings

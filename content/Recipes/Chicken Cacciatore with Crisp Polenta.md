@@ -19,6 +19,8 @@ author:
 source: Martha Stewart (Everyday Food, October 2008)
 url: http://www.marthastewart.com/313309/chicken-cacciatore-with-crisp-polenta
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 4

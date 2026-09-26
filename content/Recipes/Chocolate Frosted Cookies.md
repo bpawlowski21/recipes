@@ -14,6 +14,8 @@ author: "[[Sally McKenney]]"
 source:
 url: https://sallysbakingaddiction.com/chocolate-frosted-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 19 to 20 cookies

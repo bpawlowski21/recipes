@@ -15,6 +15,8 @@ author:
 source: Epicurious
 url: http://www.epicurious.com/recipes/food/views/cucumber-salad-350881
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings:

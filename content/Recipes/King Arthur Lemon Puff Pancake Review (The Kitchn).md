@@ -13,6 +13,8 @@ author:
 source:
 url: https://www.thekitchn.com/king-arthur-lemon-puff-pancake-review-23157736
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

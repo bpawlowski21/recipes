@@ -15,6 +15,8 @@ author: "[[Holly Nilsson]]"
 source:
 url: https://www.spendwithpennies.com/best-coleslaw-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 6

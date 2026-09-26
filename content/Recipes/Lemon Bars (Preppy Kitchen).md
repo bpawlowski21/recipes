@@ -14,6 +14,8 @@ author: John Kanell
 source: Preppy Kitchen
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

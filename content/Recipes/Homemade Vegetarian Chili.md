@@ -18,6 +18,8 @@ author: Cookie and Kate
 source: Cookie and Kate
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4-6

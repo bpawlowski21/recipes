@@ -15,6 +15,8 @@ author: "[[Jill Dalton]]"
 source:
 url: https://plantbasedcookingshow.com/2019/04/28/creamy-oat-milk/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4 people

@@ -17,6 +17,8 @@ author: "[[Sarah Bond]]"
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4

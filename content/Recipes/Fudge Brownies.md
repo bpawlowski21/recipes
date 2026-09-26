@@ -15,6 +15,8 @@ author: Marcy Goldman
 source: Epicurious
 url: http://www.epicurious.com/recipes/food/printerfriendly/Decadent-Fudge-Brownies-109183
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 30

@@ -17,6 +17,8 @@ author: David Lebovitz
 source: Alexandra Cooks
 url: https://alexandracooks.com/2010/08/05/david-lebovitz-chocolate-biscotti-great-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: About 20 biscotti
 created: 2026-08-02

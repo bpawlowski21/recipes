@@ -13,6 +13,8 @@ author: David Leite
 source: Leite's Culinaria, adapted from The Mile End Cookbook by Noah and Rae Bernamoff
 url: https://leitesculinaria.com/84910/recipes-homemade-matzoh.html
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

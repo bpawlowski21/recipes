@@ -15,6 +15,8 @@ author:
 source:
 url: https://www.loveandlemons.com/spaghetti-aglio-e-olio/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4

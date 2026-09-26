@@ -15,6 +15,8 @@ author: Colette Tihista-Longin
 source: Sunset (MyRecipes.com)
 url: http://www.myrecipes.com/recipe/chocolate-thumbprints-caramel-sea-salt
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: about 40 cookies

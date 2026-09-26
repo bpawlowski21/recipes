@@ -14,6 +14,8 @@ author:
 source: King Arthur Baking
 url: https://www.kingarthurbaking.com/blog/2021/02/22/how-to-make-hamantaschen
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

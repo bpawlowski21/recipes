@@ -14,6 +14,8 @@ author:
 source: hungrycouplenyc.com
 url: http://www.hungrycouplenyc.com/2013/11/sweet-cinnamon-bread.html
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 10

@@ -16,6 +16,8 @@ author: "[[Wendy Nash]]"
 source: Epicurious (adapted by Wendy)
 url: http://www.epicurious.com/recipes/food/views/100318
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings:

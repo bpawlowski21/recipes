@@ -15,6 +15,8 @@ author: Sally McKenney
 source: Sally's Baking Addiction
 url: http://sallysbakingaddiction.com/pumpkin-chocolate-chip-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

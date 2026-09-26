@@ -15,6 +15,8 @@ author:
 source: Pinch of Yum
 url: https://pinchofyum.com/blueberry-lemon-bread
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

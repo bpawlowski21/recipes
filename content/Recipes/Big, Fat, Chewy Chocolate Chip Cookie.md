@@ -14,6 +14,8 @@ author: ELIZABETHBH
 source: Allrecipes.com
 url: https://www.allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings:

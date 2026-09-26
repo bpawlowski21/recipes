@@ -18,6 +18,8 @@ author: Ashley Manila
 source: Baker by Nature
 url: https://bakerbynature.com/big-italian-chopped-salad/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 8

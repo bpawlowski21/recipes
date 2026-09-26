@@ -17,6 +17,8 @@ author:
 source: TODAY
 url: http://www.today.com/food/best-banana-bread-weve-ever-had-now-you-can-make-t45306
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 2 loaves

@@ -17,6 +17,8 @@ author: Molly Baz
 source: Bon Appétit
 url: https://www.bonappetit.com/recipe/marinated-summer-squash-with-hazelnuts-and-ricotta
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

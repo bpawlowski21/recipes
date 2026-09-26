@@ -14,6 +14,8 @@ author:
 source: Ambitious Kitchen
 url: https://www.ambitiouskitchen.com/best-cinnamon-rolls/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 created: 2026-07-28

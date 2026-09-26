@@ -15,6 +15,8 @@ author: Six Sisters' Stuff
 source: Six Sisters' Stuff
 url: http://www.sixsistersstuff.com/2015/12/gingerbread-truffles.html
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 36 truffles

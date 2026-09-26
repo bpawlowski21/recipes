@@ -17,6 +17,8 @@ author:
 source: Smitten Kitchen
 url: http://smittenkitchen.com/blog/2007/10/butternut-squash-and-caramelized-onion-galette/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 6

@@ -16,6 +16,8 @@ author:
 source: Martha Stewart (Everyday Food, July/August 2011)
 url: http://www.marthastewart.com/852402/easy-chocolate-fudge-pretzels
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes 36

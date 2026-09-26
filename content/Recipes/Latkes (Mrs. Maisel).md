@@ -13,6 +13,8 @@ author:
 source:
 url: https://twitter.com/maiseltv/status/1252644645986861056
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 servings: []

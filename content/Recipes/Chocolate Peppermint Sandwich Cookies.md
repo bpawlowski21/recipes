@@ -15,6 +15,8 @@ author:
 source: Broma Bakery
 url: https://bromabakery.com/chocolate-peppermint-sandwich-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 created: 2026-08-02
 last: 2026-08-02

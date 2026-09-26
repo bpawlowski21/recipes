@@ -15,6 +15,8 @@ author:
 source: Martha Stewart (Everyday Food, May 2012)
 url: http://www.marthastewart.com/900912/glazed-citrus-doodles
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes 36

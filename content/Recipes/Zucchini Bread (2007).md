@@ -17,6 +17,8 @@ author: Deb Perelman
 source: Smitten Kitchen
 url: https://smittenkitchen.com/blog/2007/07/summer-of-the-bats/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 2 loaves or approximately 24 muffins

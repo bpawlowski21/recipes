@@ -13,6 +13,8 @@ author:
 source:
 url: https://www.foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe-1921714
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

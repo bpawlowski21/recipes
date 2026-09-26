@@ -17,6 +17,8 @@ author: Ayeh Manfre
 source: Cooking With Ayeh
 url: https://cookingwithayeh.com/shirazi-salad/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

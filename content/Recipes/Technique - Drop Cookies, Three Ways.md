@@ -14,6 +14,8 @@ author:
 source: Martha Stewart
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 created: 2026-08-02
 last: 2026-08-02

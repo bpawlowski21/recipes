@@ -16,6 +16,8 @@ author:
 source: Sally's Baking Addiction
 url: https://sallysbakingaddiction.com/2014/06/17/vanilla-almond-granola/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 2-3 cups

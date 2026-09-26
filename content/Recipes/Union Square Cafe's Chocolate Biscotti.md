@@ -15,6 +15,8 @@ author: Alex Witchel
 source: NYT Cooking (adapted from Union Square Cafe)
 url: https://cooking.nytimes.com/recipes/1012516-union-square-cafes-chocolate-biscotti
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 60 to 80 biscotti

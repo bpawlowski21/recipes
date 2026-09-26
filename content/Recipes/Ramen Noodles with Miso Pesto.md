@@ -17,6 +17,8 @@ author: Andy Baraghani
 source: Bon Appétit
 url: https://www.bonappetit.com/recipe/miso-pesto-with-ramen-noodles
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

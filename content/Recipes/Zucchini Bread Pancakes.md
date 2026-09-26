@@ -14,6 +14,8 @@ author: Deb Perelman
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2012/07/zucchini-bread-pancakes/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

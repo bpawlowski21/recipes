@@ -15,6 +15,8 @@ author: Andrea Geary
 source: America's Test Kitchen
 url: https://www.americastestkitchen.com/recipes/7485-florentine-lace-cookies
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

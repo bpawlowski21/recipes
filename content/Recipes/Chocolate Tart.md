@@ -15,6 +15,8 @@ author: Alexandra Stafford
 source:
 url: https://alexandracooks.com/2012/01/17/jean-georges-chocolate-tart/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 6

@@ -14,6 +14,8 @@ author: Julia Moskin
 source: NYT Cooking
 url: https://cooking.nytimes.com/recipes/1012457-cheddar-cheese-puffs
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 36 puffs

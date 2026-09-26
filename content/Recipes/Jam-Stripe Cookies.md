@@ -14,6 +14,8 @@ author:
 source: Martha Stewart (Everyday Food, December 2008)
 url: http://www.marthastewart.com/315086/jam-stripe-cookies
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: Makes about 28
 created: 2026-08-02

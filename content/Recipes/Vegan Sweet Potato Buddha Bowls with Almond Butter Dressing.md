@@ -18,6 +18,8 @@ author: Monique
 source: Ambitious Kitchen
 url: http://www.ambitiouskitchen.com/2016/09/vegan-sweet-potato-buddha-bowl-almond-butter-dressing/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4 servings

@@ -15,6 +15,8 @@ author: Marcy Goldman
 source: Epicurious
 url: http://www.epicurious.com/recipes/food/views/109117
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings:

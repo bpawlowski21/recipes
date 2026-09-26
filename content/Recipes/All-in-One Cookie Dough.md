@@ -14,6 +14,8 @@ author:
 source: Martha Stewart (Everyday Food, December 2008)
 url: http://www.marthastewart.com/313169/all-in-one-cookie-dough
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: Makes about 30, serves 30
 created: 2026-08-02

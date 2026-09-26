@@ -16,6 +16,8 @@ author: "[[John Kanell]]"
 source:
 url: https://preppykitchen.com/oreo-balls/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 24 balls

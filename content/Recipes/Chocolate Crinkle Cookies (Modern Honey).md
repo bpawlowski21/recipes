@@ -14,6 +14,8 @@ author: Modern Honey
 source: Modern Honey
 url: https://www.modernhoney.com/chocolate-crinkle-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 30

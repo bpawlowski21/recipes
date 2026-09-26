@@ -12,6 +12,8 @@ author: "[[Alexandra Stafford]]"
 source:
 url: https://alexandracooks.com/2023/05/27/5-ingredient-greek-salad-dressing-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: ¾ cup

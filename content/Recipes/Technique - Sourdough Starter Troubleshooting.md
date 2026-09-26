@@ -13,6 +13,8 @@ author: Barb Alpern
 source: King Arthur Baking
 url: https://www.kingarthurbaking.com/blog/2018/03/09/sourdough-starter-troubleshooting-2
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

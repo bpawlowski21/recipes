@@ -17,6 +17,8 @@ author:
 source: Epicurious (Bon Appétit, July 1999)
 url: http://www.epicurious.com/recipes/food/printerfriendly/Modern-Macaroni-Salad-101849
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 6 to 8

@@ -15,6 +15,8 @@ author: Karen Troughton
 source: Kitchen Treaty
 url: https://www.kitchentreaty.com/creamy-pumpkin-baked-rigatoni/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

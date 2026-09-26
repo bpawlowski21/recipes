@@ -16,6 +16,8 @@ author: Darshana Thacker Wendel
 source: Forks Over Knives
 url: https://www.forksoverknives.com/recipes/vegan-soups-stews/potato-kale-minestrone/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

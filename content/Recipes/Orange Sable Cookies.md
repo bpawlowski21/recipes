@@ -15,6 +15,8 @@ author:
 source: Martha Stewart (Holiday Cookies 2001, Special Issue)
 url: http://www.marthastewart.com/354125/orange-sable-cookies
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes 5 dozen

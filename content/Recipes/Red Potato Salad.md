@@ -15,6 +15,8 @@ author: Kelly Anthony
 source: The Anthony Kitchen
 url: https://www.theanthonykitchen.com/red-potato-salad/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

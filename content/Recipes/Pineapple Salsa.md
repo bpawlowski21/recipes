@@ -16,6 +16,8 @@ author: "[[Sam Merritt]]"
 source:
 url: https://sugarspunrun.com/pineapple-salsa/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 8 servings (about ¾ cup each)

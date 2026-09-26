@@ -14,6 +14,8 @@ author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2019/03/22/simple-sourdough-focaccia-a-beginners-guide/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

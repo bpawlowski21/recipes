@@ -16,6 +16,8 @@ author:
 source: Minimalist Baker
 url: https://minimalistbaker.com/1-pot-chickpea-noodle-soup/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4

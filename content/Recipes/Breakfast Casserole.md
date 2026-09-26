@@ -16,6 +16,8 @@ author: Lauren Allen
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 12
 created: 2026-08-02

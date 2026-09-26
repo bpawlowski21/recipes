@@ -14,6 +14,8 @@ author: Deb Perelman
 source: Smitten Kitchen
 url: http://smittenkitchen.com/2013/03/my-favorite-buttermilk-biscuits/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

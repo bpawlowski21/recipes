@@ -16,6 +16,8 @@ author: Holly Nilsson
 source: Spend with Pennies
 url: https://www.spendwithpennies.com/7-layer-dip/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 16

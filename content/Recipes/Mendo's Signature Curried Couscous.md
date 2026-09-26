@@ -3,6 +3,8 @@ cssclasses:
   - recipe
 url: https://www.mendocinofarms.com/mendos-signature-curried-couscous-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 subtype:

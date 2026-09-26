@@ -13,6 +13,8 @@ author:
 source: Food Network Kitchen
 url: https://www.foodnetwork.com/recipes/food-network-kitchen/vegan-vanilla-cupcakes-3362664
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 12 cupcakes

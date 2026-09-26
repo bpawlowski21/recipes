@@ -16,6 +16,8 @@ author:
 source: Martha Stewart (Everyday Food, June 2005)
 url: http://www.marthastewart.com/337157/crunchy-chocolate-treats
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes 2 dozen

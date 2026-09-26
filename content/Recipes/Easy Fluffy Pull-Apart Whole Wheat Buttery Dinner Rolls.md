@@ -13,6 +13,8 @@ author: Tieghan Gerard
 source: Half Baked Harvest
 url: https://www.halfbakedharvest.com/easy-fluffy-pull-apart-whole-wheat-buttery-dinner-rolls/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

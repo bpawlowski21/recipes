@@ -15,6 +15,8 @@ author: Thomas Keller
 source: Ad Hoc at Home / Bon Appétit
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 12 as a side dish, 6 to 8 as a main course

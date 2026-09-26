@@ -13,6 +13,8 @@ author: Alexandra Stafford
 source:
 url: https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

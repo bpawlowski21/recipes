@@ -13,6 +13,8 @@ author:
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 50-60 meatballs
 created: 2026-08-02

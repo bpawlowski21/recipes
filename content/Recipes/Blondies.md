@@ -14,6 +14,8 @@ author: Gemma Stafford
 source: Bigger Bolder Baking
 url: https://www.biggerbolderbaking.com/best-ever-blondies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

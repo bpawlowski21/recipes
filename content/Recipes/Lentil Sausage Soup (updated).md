@@ -15,6 +15,8 @@ author: Ina Garten
 source: Barefoot Contessa
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 6-8

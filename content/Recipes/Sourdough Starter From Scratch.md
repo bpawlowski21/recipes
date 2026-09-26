@@ -13,6 +13,8 @@ author:
 source: The Perfect Loaf
 url: https://www.theperfectloaf.com/7-easy-steps-making-incredible-sourdough-starter-scratch/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

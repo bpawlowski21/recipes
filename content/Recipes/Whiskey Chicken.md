@@ -13,6 +13,8 @@ author:
 source:
 url: https://allrecipes.com/recipe/25491/whiskey-chicken/
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

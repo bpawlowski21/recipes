@@ -16,6 +16,8 @@ author: Ashley Manila
 source: Baker by Nature
 url: https://bakerbynature.com/no-bake-espresso-chocolate-pudding-pie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 1 9" pie

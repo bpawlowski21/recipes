@@ -17,6 +17,8 @@ author: Meggan Hill
 source: Culinary Hill
 url: https://www.culinaryhill.com/chipotle-sofritas-recipe-copycat/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

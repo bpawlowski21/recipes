@@ -14,6 +14,8 @@ author: "[[Jenna Barnard]]"
 source:
 url: https://butternutbakeryblog.com/thick-bakery-style-chocolate-chip-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 6

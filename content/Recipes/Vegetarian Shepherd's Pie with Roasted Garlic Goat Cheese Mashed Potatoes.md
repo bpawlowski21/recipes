@@ -16,6 +16,8 @@ author:
 source: The Fig Tree Blog
 url: https://thefigtreeblog.com/2010/11/vegetarian-shepherds-pie-with-roasted-garlic-goat-cheese-mashed-potatoes.html
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

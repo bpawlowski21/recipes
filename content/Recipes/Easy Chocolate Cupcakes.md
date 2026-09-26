@@ -13,6 +13,8 @@ author:
 source: Sugar Spun Run
 url: https://sugarspunrun.com/easy-chocolate-cupcakes/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

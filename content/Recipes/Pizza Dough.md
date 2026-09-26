@@ -13,6 +13,8 @@ author:
 source: Sugar Spun Run
 url: https://sugarspunrun.com/the-best-pizza-dough-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 created: 2026-07-28

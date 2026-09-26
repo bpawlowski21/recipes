@@ -13,6 +13,8 @@ author: Tori Avey
 source:
 url: https://toriavey.com/how-to/challah-bread-part-1-the-blessing-and-the-dough/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

@@ -13,6 +13,8 @@ author: Sam Merritt
 source: Sugar Spun Run
 url: https://sugarspunrun.com/easy-sugar-cookie-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

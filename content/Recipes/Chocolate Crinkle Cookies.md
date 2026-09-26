@@ -14,6 +14,8 @@ author: "[[John Kanell]]"
 source:
 url: https://preppykitchen.com/chocolate-crinkle-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 48 cookies

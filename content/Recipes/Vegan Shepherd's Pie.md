@@ -15,6 +15,8 @@ author:
 source: Minimalist Baker
 url: https://minimalistbaker.com/1-hour-vegan-shepherds-pie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

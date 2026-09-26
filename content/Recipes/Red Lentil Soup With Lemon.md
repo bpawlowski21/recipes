@@ -17,6 +17,8 @@ author: Melissa Clark
 source: NYT Cooking
 url: https://cooking.nytimes.com/recipes/1016062-red-lentil-soup-with-lemon
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4 servings

@@ -14,6 +14,8 @@ author:
 source: Martha Stewart Living, June
 url: http://www.marthastewart.com/316712/double-chocolate-chunk-cookies
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: about 3 dozen

@@ -15,6 +15,8 @@ author:
 source: Food Network
 url: https://www.foodnetwork.com/recipes/packages/baking-guide/cookies-and-bars/50-bar-cookies
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings:

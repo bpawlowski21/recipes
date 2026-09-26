@@ -13,6 +13,8 @@ author:
 source: 1410 Practical
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 1 pound, 8 pieces

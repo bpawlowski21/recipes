@@ -14,6 +14,8 @@ author: Melissa Stadler
 source: Modern Honey
 url: https://www.modernhoney.com/lemon-sugar-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 20

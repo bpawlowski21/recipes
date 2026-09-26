@@ -17,6 +17,8 @@ author: Mark Bittman
 source: The Best Recipes in the World
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes 8 or more servings

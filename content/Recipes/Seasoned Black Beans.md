@@ -14,6 +14,8 @@ author: "[[Annie Holmes]]"
 source:
 url: https://www.maebells.com/seasoned-black-beans-loaded-tex-mex-bowls/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4

@@ -13,6 +13,8 @@ author: Zoë François
 source: Breadin5.com (Artisan Bread in Five Minutes a Day), via Red Star Yeast
 url: https://redstaryeast.com/recipes/no-knead-artisan-bread-4-ways/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

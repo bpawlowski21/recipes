@@ -13,6 +13,8 @@ author:
 source:
 url: https://www.foodnetwork.com/recipes/break-fast-bagel-board-13278279
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 servings: []

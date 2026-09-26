@@ -13,6 +13,8 @@ author:
 source:
 url: https://www.allrecipes.com/recipe/72508/the-best-vegetarian-chili-in-the-world/
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 servings: []

@@ -17,6 +17,8 @@ author:
 source: Breadtopia
 url: https://breadtopia.com/rye-chocolate-cherry-sourdough/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

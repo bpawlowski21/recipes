@@ -14,6 +14,8 @@ author: Kelli Bowman
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 14-16 large cookies

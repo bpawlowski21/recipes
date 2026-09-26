@@ -17,6 +17,8 @@ author:
 source: Annie's Eats (via Tasty Kitchen)
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 3-4 servings

@@ -16,6 +16,8 @@ author:
 source: Gimme Some Oven
 url: https://www.gimmesomeoven.com/best-mashed-potatoes-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 10-12

@@ -16,6 +16,8 @@ author: Sam Merritt
 source: Sugar Spun Run
 url: https://sugarspunrun.com/easy-chocolate-cupcakes/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 24 cupcakes

@@ -13,6 +13,8 @@ author:
 source:
 url: https://food-network.app.link/eU53T3clT6
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

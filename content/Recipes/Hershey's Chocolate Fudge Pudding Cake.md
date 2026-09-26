@@ -14,6 +14,8 @@ author:
 source: Hersheyland
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 9 servings
 created: 2026-08-02

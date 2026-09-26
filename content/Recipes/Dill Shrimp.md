@@ -16,6 +16,8 @@ author: K
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 postmarked: 1995-01-06

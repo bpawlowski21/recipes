@@ -15,6 +15,8 @@ author: "[[Katie Sullivan Morford]]"
 source:
 url: https://www.momskitchenhandbook.com/recipes/15-minute-fix-spaghetti-with-butter-egg-and-cheese/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4 to 6

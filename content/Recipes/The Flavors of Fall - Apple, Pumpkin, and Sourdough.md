@@ -13,6 +13,8 @@ author:
 source: King Arthur Baking
 url: https://www.kingarthurbaking.com/blog/2020/10/20/the-flavors-of-fall-apple-pumpkin-and-sourdough
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

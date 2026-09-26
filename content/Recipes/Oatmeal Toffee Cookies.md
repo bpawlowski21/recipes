@@ -15,6 +15,8 @@ author: Kathy Farrell-Kingsley
 source: Cooking Light
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 2 dozen (1 cookie per serving)
 created: 2026-08-02

@@ -18,6 +18,8 @@ author: "[[Gaby Dalkin]]"
 source:
 url: https://mariashriver.com/sunday-paper-dinner-club-austin-style-breakfast-tacos/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 2 to 3

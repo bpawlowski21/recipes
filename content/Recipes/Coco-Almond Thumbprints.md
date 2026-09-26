@@ -16,6 +16,8 @@ author: Dorie Greenspan
 source:
 url: https://doriegreenspan.com/recipe/coco-almond-thumbprints-a-passover-treat-thats-good-anytime/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

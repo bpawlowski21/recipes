@@ -16,6 +16,8 @@ author: "@avocado_skillet, via @plantbasedvegans"
 source: Instagram
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: []

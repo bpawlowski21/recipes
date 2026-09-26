@@ -16,6 +16,8 @@ author:
 source: Naturally Ella
 url: http://naturallyella.com/pear-salad-gorgonzola/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4 side servings (or 2 large portions)

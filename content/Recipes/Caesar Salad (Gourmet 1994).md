@@ -16,6 +16,8 @@ author:
 source: Epicurious (Gourmet, February 1994)
 url: https://www.epicurious.com/recipes/food/views/Caesar-Salad-11636
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 6

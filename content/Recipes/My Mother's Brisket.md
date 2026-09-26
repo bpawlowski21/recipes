@@ -16,6 +16,8 @@ author:
 source: Epicurious (Gourmet, December 1995)
 url: http://www.epicurious.com/recipes/food/views/13482
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings:

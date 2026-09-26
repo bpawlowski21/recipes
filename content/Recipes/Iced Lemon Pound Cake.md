@@ -15,6 +15,8 @@ author:
 source: Sally's Baking Addiction
 url: https://sallysbakingaddiction.com/iced-lemon-pound-cake/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 8-10

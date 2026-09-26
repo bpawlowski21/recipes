@@ -14,6 +14,8 @@ author:
 source: The Perfect Loaf
 url: https://www.theperfectloaf.com/beginners-sourdough-bread/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

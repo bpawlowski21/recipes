@@ -13,6 +13,8 @@ author: Jeffrey Hamelman and Gesine Bullock-Prado
 source: King Arthur Baking Company, "The Isolation Baking Show"
 url: https://www.kingarthurbaking.com/videos/the-isolation-baking-show/ep-3-vermont-sourdough-and-sourdough-crumpets
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

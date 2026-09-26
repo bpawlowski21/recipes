@@ -12,6 +12,8 @@ author: Steve Cylka
 source: The Black Peppercorn
 url: http://www.theblackpeppercorn.com/2013/05/vanilla-sugar/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 4 cups
 created: 2026-08-02

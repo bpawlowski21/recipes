@@ -3,6 +3,8 @@ cssclasses:
   - recipe
 url: https://www.thespruceeats.com/basic-miso-soup-3377886
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 subtype:

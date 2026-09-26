@@ -17,6 +17,8 @@ author: Tori Avey
 source: Tori Avey (toriavey.com)
 url: https://toriavey.com/vegetarian-matzo-ball-soup/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 8 servings

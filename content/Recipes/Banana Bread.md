@@ -15,6 +15,8 @@ author:
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2020/03/ultimate-banana-bread/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 8 to 10

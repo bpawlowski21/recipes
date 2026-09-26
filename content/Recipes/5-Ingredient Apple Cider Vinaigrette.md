@@ -14,6 +14,8 @@ author: Alexandra Stafford
 source:
 url: https://alexandracooks.com/2022/09/24/5-ingredient-apple-cider-vinaigrette/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 1 cup

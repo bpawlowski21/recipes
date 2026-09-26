@@ -15,6 +15,8 @@ author: Vern Bertagna
 source: Bon Appétit
 url: http://www.epicurious.com/recipes/food/printerfriendly/Spiced-Pumpkin-Bread-840
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 2 loaves

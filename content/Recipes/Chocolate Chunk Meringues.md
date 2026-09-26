@@ -14,6 +14,8 @@ author:
 source: Keep It Sweet Desserts (adapted from Food and Wine)
 url: http://www.keepitsweetdesserts.com/chocolate-chunk-meringues/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 6 dozen

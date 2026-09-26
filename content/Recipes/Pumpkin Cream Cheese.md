@@ -14,6 +14,8 @@ author:
 source: Shutterbean
 url: http://www.shutterbean.com/2011/pumpkin-cream-cheese/print/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: about 1 1/2 cups

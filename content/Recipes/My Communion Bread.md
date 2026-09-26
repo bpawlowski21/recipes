@@ -14,6 +14,8 @@ author:
 source: The Cooking of Joy
 url: https://the-cooking-of-joy.blogspot.com/2018/09/my-communion-bread.html
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

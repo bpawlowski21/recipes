@@ -13,6 +13,8 @@ author: PJ Hamel
 source: King Arthur Baking
 url: https://www.kingarthurbaking.com/blog/2020/06/10/10-tips-for-new-sourdough-bakers
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

@@ -16,6 +16,8 @@ author:
 source: Oh My Veggies
 url: https://ohmyveggies.com/butternut-squash-and-caramelized-onion-flatbread/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

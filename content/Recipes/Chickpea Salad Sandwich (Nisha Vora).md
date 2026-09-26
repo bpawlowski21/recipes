@@ -16,6 +16,8 @@ author: Nisha Vora
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 5 to 6 sandwiches

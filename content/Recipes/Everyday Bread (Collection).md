@@ -11,6 +11,8 @@ author:
 source:
 url: https://www.kingarthurbaking.com/recipes/collections/everyday-bread
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

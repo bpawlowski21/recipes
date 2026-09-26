@@ -17,6 +17,8 @@ author:
 source: Martha Stewart (Everyday Food, July/August 2005)
 url: http://www.marthastewart.com/314662/red-white-and-blueberry-trifle
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 6

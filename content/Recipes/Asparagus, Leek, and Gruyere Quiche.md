@@ -16,6 +16,8 @@ author: "[[Wendy Nash]]"
 source: Everyday Food, April 2009
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 6

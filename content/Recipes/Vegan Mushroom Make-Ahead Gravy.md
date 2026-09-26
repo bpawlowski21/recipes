@@ -13,6 +13,8 @@ author: Melissa Clark
 source: NYT Cooking
 url: https://cooking.nytimes.com/recipes/1017760-vegan-mushroom-make-ahead-gravy
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 3 1/2 cups

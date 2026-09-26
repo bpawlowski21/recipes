@@ -13,6 +13,8 @@ author:
 source:
 url: https://food52.com/recipes/84322-sourdough-fougasse-recipe
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

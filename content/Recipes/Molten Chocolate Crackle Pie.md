@@ -14,6 +14,8 @@ author: Tieghan Gerard
 source: Half Baked Harvest
 url: https://www.halfbakedharvest.com/molten-chocolate-crackle-pie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 created: 2026-07-29

@@ -15,6 +15,8 @@ author: Camila Hurst
 source: Pies and Tacos
 url: https://www.piesandtacos.com/orange-cake/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 12 slices

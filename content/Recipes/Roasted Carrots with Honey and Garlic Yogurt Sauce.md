@@ -17,6 +17,8 @@ author: Eman
 source: Pinch of Yum
 url: https://pinchofyum.com/roasted-carrots-with-honey-and-garlic-yogurt-sauce
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4 to 6

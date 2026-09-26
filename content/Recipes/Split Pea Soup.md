@@ -17,6 +17,8 @@ author:
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2018/01/split-pea-soup/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 6

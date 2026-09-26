@@ -17,6 +17,8 @@ author:
 source: Smitten Kitchen (via Gourmet.com)
 url: http://smittenkitchen.com/blog/2010/12/garlic-butter-roasted-mushrooms/print/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings:

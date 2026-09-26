@@ -15,6 +15,8 @@ author:
 source: Zingerman's Bakehouse, via King Arthur Baking
 url: https://www.kingarthurbaking.com/recipes/zingermans-chocolate-coconut-macaroons-recipe
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

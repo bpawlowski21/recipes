@@ -17,6 +17,8 @@ author:
 source: Real Simple
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 8

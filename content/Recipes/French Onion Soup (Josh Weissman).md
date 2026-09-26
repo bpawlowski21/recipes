@@ -17,6 +17,8 @@ author: "[[Josh Weissman]]"
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 7 (1 cup per person; about 1½ qt/1.5 liters total)

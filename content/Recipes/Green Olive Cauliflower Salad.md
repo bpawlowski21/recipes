@@ -17,6 +17,8 @@ author: Erin Alderson
 source: naturallyella.com
 url: https://naturallyella.com/green-olive-cauliflower-salad/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4 side servings

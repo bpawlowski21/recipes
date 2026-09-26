@@ -13,6 +13,8 @@ author:
 source: The Kitchn (Netflix's Salt, Fat, Acid, Heat)
 url: https://www.thekitchn.com/samin-nosrat-salt-fat-acid-heat-ligurian-focaccia-22949343
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 created: 2026-07-28

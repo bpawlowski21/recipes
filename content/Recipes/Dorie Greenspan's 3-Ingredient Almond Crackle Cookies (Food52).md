@@ -13,6 +13,8 @@ author: Dorie Greenspan
 source:
 url: https://food52.com/recipes/67683-dorie-greenspan-s-3-ingredient-almond-crackle-cookies
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

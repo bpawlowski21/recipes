@@ -15,6 +15,8 @@ author: Manuela Mazzocco
 source:
 url: https://www.cookingwithmanuela.com/2018/03/italian-almond-cookies.html
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 22 cookies

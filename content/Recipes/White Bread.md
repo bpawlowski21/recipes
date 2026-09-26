@@ -13,6 +13,8 @@ author:
 source: Brown Eyed Baker
 url: https://www.browneyedbaker.com/white-bread-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 created: 2026-07-28

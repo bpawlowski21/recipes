@@ -13,6 +13,8 @@ author:
 source:
 url: https://food52.com/recipes/82403-chocolate-sheet-cake-recipe
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 servings: []

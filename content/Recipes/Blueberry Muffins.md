@@ -15,6 +15,8 @@ author:
 source: Martha Stewart Living, July/August 2000
 url: http://www.marthastewart.com/341848/blueberry-muffins
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes 6 large or 12 small muffins

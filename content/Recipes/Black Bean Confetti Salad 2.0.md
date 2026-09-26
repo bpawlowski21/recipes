@@ -16,6 +16,8 @@ author:
 source: Smitten Kitchen
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4 as a main, 8 to 10 as a snack

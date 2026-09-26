@@ -15,6 +15,8 @@ author: "[[John Kanell]]"
 source:
 url: https://preppykitchen.com/toffee/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 20 pieces

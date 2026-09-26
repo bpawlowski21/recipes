@@ -17,6 +17,8 @@ author: Christine Muhlke
 source: The New York Times
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 6 to 8

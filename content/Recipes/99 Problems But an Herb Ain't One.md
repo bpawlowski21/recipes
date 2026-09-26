@@ -17,6 +17,8 @@ author: Alex Straus
 source: Saveur
 url: https://www.saveur.com/99-problems-herb-aint-one-gin-lemongrass-cocktail-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

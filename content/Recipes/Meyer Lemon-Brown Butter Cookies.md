@@ -16,6 +16,8 @@ author:
 source: Bake at 350 (bakeat350.blogspot.com)
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes about 24

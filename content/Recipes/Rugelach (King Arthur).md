@@ -18,6 +18,8 @@ author:
 source: King Arthur Baking
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 36 rugelach
 created: 2026-08-02

@@ -13,6 +13,8 @@ author:
 source: Kitchn
 url: https://www.thekitchn.com/strawberry-puree-recipe-23309887
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: about 3 cups

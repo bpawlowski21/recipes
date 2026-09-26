@@ -16,6 +16,8 @@ author:
 source: Gourmet, April 2004 (via Epicurious)
 url: http://www.epicurious.com/recipes/food/printerfriendly/Strawberry-Rhubarb-Compote-with-Matzo-Streusel-Topping-109345
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 8

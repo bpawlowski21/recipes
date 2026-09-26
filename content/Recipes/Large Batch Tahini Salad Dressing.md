@@ -13,6 +13,8 @@ author: "[[Alexandra Stafford]]"
 source:
 url: https://alexandracooks.com/2021/01/05/large-batch-tahini-salad-dressing/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 1 quart

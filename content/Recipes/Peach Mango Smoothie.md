@@ -16,6 +16,8 @@ author: "[[Liz Thomson]]"
 source:
 url: https://iheartvegetables.com/peach-mango-smoothie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 2 smoothies

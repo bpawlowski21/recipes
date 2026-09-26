@@ -14,6 +14,8 @@ author: Sam Merritt
 source: Sugar Spun Run
 url: https://sugarspunrun.com/worst-chocolate-chip-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

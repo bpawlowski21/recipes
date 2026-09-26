@@ -16,6 +16,8 @@ author: Melissa Stadler
 source: Modern Honey
 url: https://www.modernhoney.com/zuppa-toscana-soup-olive-garden-copycat-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 6

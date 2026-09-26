@@ -13,6 +13,8 @@ author: Barb Alpern
 source: King Arthur Baking Company
 url: https://www.kingarthurbaking.com/blog/2018/10/30/maintaining-a-smaller-sourdough-starter
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

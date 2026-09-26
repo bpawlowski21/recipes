@@ -14,6 +14,8 @@ author: Mark Bittman
 source: NYT Cooking
 url: http://cooking.nytimes.com/recipes/1014719-molten-chocolate-cake
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 4

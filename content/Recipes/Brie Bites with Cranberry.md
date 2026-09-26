@@ -17,6 +17,8 @@ author:
 source: Well Plated
 url: https://www.wellplated.com/brie-bites/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 48 bites
 created: 2026-08-02

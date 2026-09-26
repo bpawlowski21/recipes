@@ -14,6 +14,8 @@ author:
 source: Smitten Kitchen
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: makes 3¾ cups (30 fluid ounces)

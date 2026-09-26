@@ -16,6 +16,8 @@ author: Kaitlin
 source: The Woks of Life
 url: https://thewoksoflife.com/easy-miso-soup/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4

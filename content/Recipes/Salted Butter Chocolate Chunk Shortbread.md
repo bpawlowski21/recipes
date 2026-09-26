@@ -14,6 +14,8 @@ author: Deb Perelman
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2017/12/salted-butter-chocolate-chunk-shortbread/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

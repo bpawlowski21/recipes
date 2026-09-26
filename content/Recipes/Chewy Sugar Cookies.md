@@ -13,6 +13,8 @@ author:
 source: Food52, "Your Best Chewy Sugar Cookie" contest winner
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings:

@@ -15,6 +15,8 @@ author: Maya
 source: Instagram
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 28 dumplings, 65 cal/2P/8C/1F each

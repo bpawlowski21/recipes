@@ -14,6 +14,8 @@ author: Jenn Segal
 source: Once Upon a Chef
 url: https://www.onceuponachef.com/recipes/copycat-recipe-chipotle-mexican-grills-chipotle-honey-vinaigrette.html
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 1 1/4 cups

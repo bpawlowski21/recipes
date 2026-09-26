@@ -18,6 +18,8 @@ author: Fran Nadzam
 source: Epicurious (Bon Appétit, June 1991)
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 6

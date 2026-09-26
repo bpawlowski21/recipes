@@ -14,6 +14,8 @@ author: "@get.plant.ed, @keltonskitchen"
 source: Instagram
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: []

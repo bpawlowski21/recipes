@@ -15,6 +15,8 @@ author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2016/09/30/mandel-bread-marzipan-sea-salt/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 28 cookies

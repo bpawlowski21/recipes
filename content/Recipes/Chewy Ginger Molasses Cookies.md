@@ -13,6 +13,8 @@ author: Ali Martin
 source: Gimme Some Oven
 url: https://www.gimmesomeoven.com/chewy-ginger-molasses-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

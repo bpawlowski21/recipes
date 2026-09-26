@@ -16,6 +16,8 @@ author: Melissa Roberts
 source: Gourmet, April 2008 (via Epicurious)
 url: http://www.epicurious.com/recipes/food/views/242023
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings:

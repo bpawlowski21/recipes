@@ -15,6 +15,8 @@ author: Joanne Gallagher
 source: Inspired Taste
 url: https://www.inspiredtaste.net/38290/blue-cheese-dressing/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

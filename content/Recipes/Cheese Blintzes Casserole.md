@@ -16,6 +16,8 @@ author: Amy
 source: What Jew Wanna Eat
 url: http://whatjewwannaeat.com/cheese-blintzes-casserole/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 12

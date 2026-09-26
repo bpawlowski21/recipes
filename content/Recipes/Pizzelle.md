@@ -14,6 +14,8 @@ author:
 source: Williams-Sonoma
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 8 (about 25 pizzelle)
 created: 2026-08-02

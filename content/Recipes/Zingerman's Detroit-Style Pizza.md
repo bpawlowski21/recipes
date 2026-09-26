@@ -15,6 +15,8 @@ author:
 source: Zingerman's Bakehouse
 url: https://joythebaker.com/2017/09/zingermans-detroit-style-pizza/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

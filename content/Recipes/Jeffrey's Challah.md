@@ -13,6 +13,8 @@ author: Jeffrey Hamelman
 source:
 url: https://www.kingarthurbaking.com/recipes/jeffreys-challah-recipe
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 created: 2026-07-29

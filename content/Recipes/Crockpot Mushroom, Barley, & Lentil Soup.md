@@ -17,6 +17,8 @@ author: Alexis Joseph, MS, RD, LD
 source: Hummusapien
 url: http://www.hummusapien.com/crockpot-mushroom-barley-lentil-soup/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 6

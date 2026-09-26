@@ -14,6 +14,8 @@ author: "[[Sam Merritt]]"
 source:
 url: https://sugarspunrun.com/brown-butter-toffee-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 24 cookies

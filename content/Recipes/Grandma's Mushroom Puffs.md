@@ -15,6 +15,8 @@ author: Emma Laperruque
 source: Food52
 url: https://food52.com/recipes/84549-mushroom-puffs-recipe
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

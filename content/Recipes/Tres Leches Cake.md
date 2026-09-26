@@ -14,6 +14,8 @@ author: Lauren Allen
 source:
 url: https://tastesbetterfromscratch.com/tres-leches-cake/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

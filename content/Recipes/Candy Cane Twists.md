@@ -14,6 +14,8 @@ author:
 source: Land O'Lakes
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 4 1/2 dozen cookies
 created: 2026-08-02

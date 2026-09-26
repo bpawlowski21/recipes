@@ -16,6 +16,8 @@ author:
 source: Martha Stewart Living, December 2006
 url: http://www.marthastewart.com/346796/noodle-kugel
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 8 to 10

@@ -17,6 +17,8 @@ author: Alexis Joseph, MS, RD, LD
 source: Hummusapien
 url: http://www.hummusapien.com/breakfast-smoothie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 1

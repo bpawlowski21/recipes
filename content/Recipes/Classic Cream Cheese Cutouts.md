@@ -14,6 +14,8 @@ author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2016/12/11/classic-cream-cheese-cutout-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 50 cookies

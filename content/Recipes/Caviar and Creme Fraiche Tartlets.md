@@ -15,6 +15,8 @@ author:
 source: Epicurious (Union Square Events)
 url: http://www.epicurious.com/recipes/food/views/caviar-and-creme-fraiche-tartlets
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes 12 mini-tarts

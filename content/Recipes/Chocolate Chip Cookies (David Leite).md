@@ -14,6 +14,8 @@ author: David Leite
 source: NYT Cooking
 url: https://cooking.nytimes.com/recipes/1015819-chocolate-chip-cookies
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 1 1/2 dozen 5-inch cookies

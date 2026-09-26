@@ -14,6 +14,8 @@ author: Jessica Randhawa
 source:
 url: https://theforkedspoon.com/bok-choy-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

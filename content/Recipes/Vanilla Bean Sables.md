@@ -13,6 +13,8 @@ author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2016/10/26/vanilla-bean-sables/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 36

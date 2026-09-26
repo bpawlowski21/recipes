@@ -15,6 +15,8 @@ author:
 source: Half Baked Harvest
 url: https://www.halfbakedharvest.com/cinnamon-apple-bourbon-smash/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

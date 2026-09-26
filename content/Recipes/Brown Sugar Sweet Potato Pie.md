@@ -14,6 +14,8 @@ author: "[[Sally McKenney]]"
 source: Sally's Baking Addiction
 url: http://sallysbakingaddiction.com/2016/10/31/brown-sugar-sweet-potato-pie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 8-10

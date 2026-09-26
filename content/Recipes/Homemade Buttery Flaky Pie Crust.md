@@ -13,6 +13,8 @@ author:
 source: Sally's Baking Addiction
 url: https://sallysbakingaddiction.com/2015/07/01/baking-basics-homemade-buttery-flaky-pie-crust/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 2 pie crusts

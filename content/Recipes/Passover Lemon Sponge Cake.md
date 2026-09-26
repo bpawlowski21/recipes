@@ -13,6 +13,8 @@ author:
 source:
 url: https://food52.com/recipes/16805-passover-lemon-sponge-cake
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

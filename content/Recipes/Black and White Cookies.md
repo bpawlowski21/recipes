@@ -14,6 +14,8 @@ author: Heath Goldman
 source: Real Simple
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: Makes 24 cookies
 created: 2026-08-02

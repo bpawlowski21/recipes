@@ -15,6 +15,8 @@ author:
 source: Martha Stewart
 url: http://www.marthastewart.com/339353/chewy-chocolate-gingerbread-cookies
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: Makes 2 dozen
 created: 2026-08-02

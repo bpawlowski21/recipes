@@ -14,6 +14,8 @@ author:
 source: Hot Bread Kitchen
 url: https://www.kingarthurbaking.com/recipes/hot-bread-kitchens-nan-e-barbari-persian-flatbread-recipe
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

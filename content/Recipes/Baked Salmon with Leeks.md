@@ -13,6 +13,8 @@ author:
 source:
 url: https://blog.williams-sonoma.com/baked-salmon-with-leeks/
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

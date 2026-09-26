@@ -16,6 +16,8 @@ author: Meggan Hill
 source: Culinary Hill
 url: https://www.culinaryhill.com/roasted-chili-corn-salsa-chipotle-copycat/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

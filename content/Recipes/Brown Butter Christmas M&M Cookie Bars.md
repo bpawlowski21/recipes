@@ -14,6 +14,8 @@ author: Tieghan Gerard
 source: Half Baked Harvest
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 22 cookies
 created: 2026-08-02

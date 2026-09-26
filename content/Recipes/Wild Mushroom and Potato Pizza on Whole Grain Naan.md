@@ -18,6 +18,8 @@ author:
 source: Oh My Veggies
 url: https://ohmyveggies.com/wild-mushroom-and-potato-pizza-on-whole-grain-naan/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

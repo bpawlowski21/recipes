@@ -15,6 +15,8 @@ author:
 source: Martha Stewart Living, April 2009
 url: http://www.marthastewart.com/281264/almond-coconut-macaroons
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 8

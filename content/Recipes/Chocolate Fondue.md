@@ -14,6 +14,8 @@ author: Ann Czaja
 source: Lindt Chocolate R.S.V.P.
 url: http://www.lindtchocolatersvp.com/our-recipes/chocolate-fondue.php
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 4

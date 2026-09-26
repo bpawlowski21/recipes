@@ -14,6 +14,8 @@ author:
 source: Fork vs. Spoon
 url: http://forkvsspoon.com/archives/3159
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Makes 8 scones

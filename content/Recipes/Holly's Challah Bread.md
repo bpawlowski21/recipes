@@ -13,6 +13,8 @@ author: Alexandra Stafford
 source:
 url: https://alexandracooks.com/2014/12/16/hollys-challah/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 1 loaf

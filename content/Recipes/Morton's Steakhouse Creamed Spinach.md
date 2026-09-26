@@ -17,6 +17,8 @@ author: Sabrina Snyder
 source: Dinner then Dessert
 url: https://dinnerthendessert.com/classic-steakhouse-creamed-spinach/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 12

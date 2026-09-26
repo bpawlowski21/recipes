@@ -15,6 +15,8 @@ author:
 source: Epicurious (Bon Appétit, December 2002)
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: Makes about 36
 created: 2026-08-02

@@ -17,6 +17,8 @@ author: Tessa
 source: Natural Comfort Kitchen
 url: http://www.naturalcomfortkitchen.com/vegan-mushroom-marinara-sauce/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 7 to 8 cups

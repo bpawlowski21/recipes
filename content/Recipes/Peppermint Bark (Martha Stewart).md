@@ -15,6 +15,8 @@ author:
 source: Martha Stewart
 url: http://www.marthastewart.com/341308/peppermint-bark
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: Makes 36 pieces
 created: 2026-08-02

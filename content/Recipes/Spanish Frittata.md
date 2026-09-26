@@ -17,6 +17,8 @@ author:
 source: Epicurious (Bon Appétit, August 1994)
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: Serves 4

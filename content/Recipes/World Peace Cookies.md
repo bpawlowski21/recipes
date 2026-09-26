@@ -14,6 +14,8 @@ author: Dorie Greenspan
 source:
 url: https://doriegreenspan.com/recipe/world-peace-cookies-the-newest-version-from-dories-cookies-sneak-peek/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

@@ -14,6 +14,8 @@ author:
 source:
 url: https://sallysbakingaddiction.com/lemon-bars-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

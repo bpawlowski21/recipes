@@ -16,6 +16,8 @@ author: Mary Margaret Chappell
 source: Forks Over Knives
 url: https://www.forksoverknives.com/how-tos/how-to-make-salsa-quick-tips-and-easy-recipes/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

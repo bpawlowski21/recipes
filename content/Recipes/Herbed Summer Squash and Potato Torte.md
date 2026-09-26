@@ -17,6 +17,8 @@ author: Deb Perelman
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2008/07/herbed-summer-squash-and-potato-torte/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

@@ -18,6 +18,8 @@ author:
 source: Sally's Baking Addiction
 url: https://sallysbakingaddiction.com/2015/09/18/easy-make-ahead-breakfast-casserole/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 12

@@ -16,6 +16,8 @@ author: Kristen Tomlan
 source: DŌ, Cookie Dough Confections, via TODAY
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

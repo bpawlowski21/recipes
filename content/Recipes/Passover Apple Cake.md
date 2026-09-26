@@ -16,6 +16,8 @@ author: Arthur Schwartz
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 9 to 12

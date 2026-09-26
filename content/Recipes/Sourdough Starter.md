@@ -13,6 +13,8 @@ author:
 source: King Arthur Baking Company
 url: https://www.kingarthurbaking.com/recipes/sourdough-starter-recipe
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

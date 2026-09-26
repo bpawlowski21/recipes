@@ -13,6 +13,8 @@ author:
 source:
 url: https://www.allrecipes.com/recipe/19673/seven-layer-taco-dip/
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

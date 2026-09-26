@@ -15,6 +15,8 @@ author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2014/12/09/grand-marnier-chocolate-truffles/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 35 truffles

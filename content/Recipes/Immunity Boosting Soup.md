@@ -17,6 +17,8 @@ author: "[[Liz Thomson]]"
 source:
 url: https://iheartvegetables.com/immunity-boosting-soup/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 6

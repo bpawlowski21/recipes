@@ -13,6 +13,8 @@ author:
 source:
 url: https://cooking.nytimes.com/recipes/1021435-perfect-chocolate-chip-cookies
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

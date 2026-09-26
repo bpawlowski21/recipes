@@ -11,6 +11,8 @@ author:
 source:
 url: https://www.epicurious.com/recipes/food/views/sourdough-biscuits
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created:

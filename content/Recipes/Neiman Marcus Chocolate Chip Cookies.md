@@ -16,6 +16,8 @@ author: "[[Julie Clark]]"
 source: Taste of Lizzy T
 url: https://www.tastesoflizzyt.com/neiman-marcus-chocolate-chip-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 36

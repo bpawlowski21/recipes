@@ -16,6 +16,8 @@ author: Alexis
 source: Hummusapien
 url: https://www.hummusapien.com/spinach-mushroom-herb-stuffing/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 10

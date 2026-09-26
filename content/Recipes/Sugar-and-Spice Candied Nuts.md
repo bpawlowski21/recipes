@@ -16,6 +16,8 @@ author:
 source: Smitten Kitchen (adapted from Elizabeth Karmel of Hill Country)
 url: http://smittenkitchen.com/blog/2008/12/sugar-and-spice-candied-nuts/print/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings:

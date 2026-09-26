@@ -15,6 +15,8 @@ author: Emeril Lagasse
 source: ABC News / GMA Food & Recipes
 url: http://abcnews.go.com/recipePrint?id=20943652&format=fullpage
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4-6

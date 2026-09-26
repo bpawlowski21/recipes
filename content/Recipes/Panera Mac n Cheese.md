@@ -13,6 +13,8 @@ author:
 source:
 url: https://www.myrecipes.com/recipe/copycat-panera-bread-mac-and-cheese
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 servings: []

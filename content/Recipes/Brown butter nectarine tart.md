@@ -15,6 +15,8 @@ source: Steph Ango
 url: https://stephango.com/brown-butter-nectarine-tart
 servings: 8 slices (11 inch tart)
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2023-09-12

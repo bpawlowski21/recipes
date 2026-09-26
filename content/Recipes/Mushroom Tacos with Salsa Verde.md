@@ -16,6 +16,8 @@ author: Maya
 source: Instagram, inspired by @eat_figs_not_pigs
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4

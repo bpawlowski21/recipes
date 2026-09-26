@@ -15,6 +15,8 @@ author: Angela Allison
 source:
 url: https://thisitaliankitchen.com
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 36 cookies

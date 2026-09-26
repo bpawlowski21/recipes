@@ -17,6 +17,8 @@ author: "[[Kathryne Taylor]]"
 source:
 url: https://cookieandkate.com/best-vegetable-lasagna-recipe/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 8

@@ -15,6 +15,8 @@ author: Sofi
 source: Broma Bakery
 url: https://bromabakery.com/brown-butter-toffee-chocolate-chip-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 18 cookies

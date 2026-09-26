@@ -15,6 +15,8 @@ author: Sam Merritt
 source: Sugar Spun Run
 url: https://sugarspunrun.com/linzer-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: 25 cookies
 created: 2026-08-02

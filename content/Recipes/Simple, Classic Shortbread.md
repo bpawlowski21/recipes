@@ -13,6 +13,8 @@ author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2021/12/18/simple-classic-shortbread-a-ted-lasso-biscuit-box-for-gifting/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 18 pieces

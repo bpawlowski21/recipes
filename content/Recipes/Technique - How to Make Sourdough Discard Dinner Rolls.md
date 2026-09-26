@@ -13,6 +13,8 @@ author: PJ Hamel
 source: King Arthur Baking Company
 url: https://www.kingarthurbaking.com/blog/2020/11/18/how-to-make-dinner-rolls-with-discard-starter
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

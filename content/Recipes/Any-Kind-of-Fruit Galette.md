@@ -13,6 +13,8 @@ author: Deb Perelman
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2020/05/any-kind-of-fruit-galette/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

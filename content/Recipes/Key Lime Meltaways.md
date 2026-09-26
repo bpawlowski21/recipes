@@ -14,6 +14,8 @@ author:
 source: Smitten Kitchen (adapted from Martha Stewart)
 url: https://smittenkitchen.com/blog/2008/08/key-lime-meltaways/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 5 dozen

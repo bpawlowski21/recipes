@@ -15,6 +15,8 @@ author: "[[Laura]]"
 source:
 url: https://www.abeautifulplate.com/green-beans-almondine/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4

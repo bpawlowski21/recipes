@@ -13,6 +13,8 @@ author: "[[Bobby Flay]]"
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: about 2 cups

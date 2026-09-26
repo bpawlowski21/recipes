@@ -18,6 +18,8 @@ author: Lauren Allen
 source: Tastes Better From Scratch
 url: https://tastesbetterfromscratch.com/best-beginners-green-smoothie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

@@ -17,6 +17,8 @@ author:
 source: Smitten Kitchen (adapted from Gourmet, December 2005)
 url: https://smittenkitchen.com/2008/12/seven-layer-cookies/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: About 5 dozen cookies
 created: 2026-08-02

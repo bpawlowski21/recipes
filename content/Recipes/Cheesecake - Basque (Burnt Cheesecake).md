@@ -14,6 +14,8 @@ author: "[[Sam Merritt]]"
 source:
 url: https://sugarspunrun.com/basque-cheesecake-burnt-cheesecake/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 10 slices

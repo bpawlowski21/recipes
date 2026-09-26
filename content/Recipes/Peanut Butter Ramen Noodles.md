@@ -18,6 +18,8 @@ author: Andrew Bernard
 source: Make It Dairy Free
 url: https://makeitdairyfree.com/creamy-peanut-butter-ramen/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 4 people

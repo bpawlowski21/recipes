@@ -16,6 +16,8 @@ author:
 source: Broma Bakery
 url: https://bromabakery.com/lemon-curd-cheesecake/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

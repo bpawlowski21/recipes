@@ -15,6 +15,8 @@ author: Brittany Mullins
 source: eatingbirdfood.com
 url: https://www.eatingbirdfood.com/lentil-loaf-with-a-maple-sweetened-glaze/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 8 slices

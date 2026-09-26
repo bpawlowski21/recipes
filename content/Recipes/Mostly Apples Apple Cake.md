@@ -15,6 +15,8 @@ author: Sarah Carey
 source: King Arthur Baking
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: one 8" or 9" cake

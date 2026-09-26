@@ -13,6 +13,8 @@ author:
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2008/09/majestic-and-moist-honey-cake/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings:

@@ -13,6 +13,8 @@ author:
 source:
 url: https://www.houstonchronicle.com/life/food/article/How-to-upgrade-your-favorite-summer-cocktail-at-15283368.php
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

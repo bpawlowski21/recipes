@@ -13,6 +13,8 @@ author:
 source: Bon Appétit
 url: https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

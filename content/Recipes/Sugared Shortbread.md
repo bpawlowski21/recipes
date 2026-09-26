@@ -13,6 +13,8 @@ author: Melissa Clark
 source: NYT Cooking
 url: https://cooking.nytimes.com/recipes/1015664-sugared-shortbread
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 servings: About 18 cookies
 created: 2026-08-02

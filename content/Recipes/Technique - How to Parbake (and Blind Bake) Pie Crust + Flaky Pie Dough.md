@@ -13,6 +13,8 @@ author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2021/11/07/how-to-parbake-and-blind-bake-pie-crust-foolproof-flaky-pie-dough/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 2 pie crusts

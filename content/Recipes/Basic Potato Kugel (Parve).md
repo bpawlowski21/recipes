@@ -15,6 +15,8 @@ author: Giora Shimoni
 source: About.com Kosher Food
 url: http://kosherfood.about.com/od/sidedishes/r/kugel_potato.htm
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 12-14

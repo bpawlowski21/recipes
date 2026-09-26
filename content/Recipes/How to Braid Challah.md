@@ -13,6 +13,8 @@ author: Tori Avey
 source:
 url: https://toriavey.com/how-to/challah-bread-part-2-how-to-braid-challah/
 favorite: false
+pdf_card: false
+needs_transcription: true
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

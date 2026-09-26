@@ -14,6 +14,8 @@ author: Claire Saffitz
 source:
 url: https://www.kingarthurbaking.com/blog/2020/10/19/make-braided-babkallah
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

@@ -17,6 +17,8 @@ author: Claire Saffitz
 source: Bon Appétit
 url: https://www.bonappetit.com/recipe/stir-fried-udon-with-pork
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

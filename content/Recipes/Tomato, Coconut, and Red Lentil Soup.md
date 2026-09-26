@@ -16,6 +16,8 @@ author:
 source: Joanne Eats Well With Others
 url: https://joanne-eatswellwithothers.com/2020/01/tomato-coconut-and-red-lentil-soup.html
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29

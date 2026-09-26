@@ -17,6 +17,8 @@ author:
 source: Smitten Kitchen (adapted from Victoria Granof)
 url: https://smittenkitchen.com/2017/10/quick-pasta-and-chickpeas-pasta-e-ceci/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 2 to 3 servings, petitely; 1 to 2, generously

@@ -15,6 +15,8 @@ author: Ashley Manila
 source: Baker by Nature
 url: https://bakerbynature.com/baileys-irish-cream-chocolate-pudding/cookbook-print/51107/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28

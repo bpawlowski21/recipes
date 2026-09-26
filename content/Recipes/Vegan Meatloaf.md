@@ -15,6 +15,8 @@ author: "[[Jessica Hylton]]"
 source:
 url: https://jessicainthekitchen.com/vegan-meatloaf-gluten-free/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 8

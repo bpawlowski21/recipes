@@ -16,6 +16,8 @@ author: "[[Lauren Allen]]"
 source:
 url: https://tastesbetterfromscratch.com/crab-dip/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 6

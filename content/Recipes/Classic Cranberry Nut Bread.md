@@ -14,6 +14,8 @@ author:
 source: Ocean Spray
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 1 loaf (16 slices)

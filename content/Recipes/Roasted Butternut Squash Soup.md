@@ -13,6 +13,8 @@ author: Ellen Lebow
 source: Bon Appétit
 url: http://www.epicurious.com/recipes/food/printerfriendly/Roasted-Butternut-Squash-Soup-1181
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4

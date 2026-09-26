@@ -18,6 +18,8 @@ author: Melissa Roberts-Matar
 source: Epicurious (Gourmet, May 2004)
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: about 44 cookies

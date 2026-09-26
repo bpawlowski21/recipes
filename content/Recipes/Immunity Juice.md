@@ -17,6 +17,8 @@ author: "[[chef_bai]]"
 source:
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: makes ½ gallon

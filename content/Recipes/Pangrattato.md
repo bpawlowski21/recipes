@@ -14,6 +14,8 @@ author: Marcellina
 source:
 url: https://www.marcellinaincucina.com/pangrattato/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 servings: 8 generous servings

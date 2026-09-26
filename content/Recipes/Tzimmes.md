@@ -17,6 +17,8 @@ author:
 source: Martha Stewart
 url: http://www.marthastewart.com/263554/tzimmes
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: true
 servings: 10

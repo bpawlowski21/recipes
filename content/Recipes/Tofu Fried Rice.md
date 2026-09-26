@@ -17,6 +17,8 @@ author:
 source: MyRecipes
 url:
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: true
 passover_recipes: false
 servings: 4 servings (serving size 1 1/2 cups)

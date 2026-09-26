@@ -14,6 +14,8 @@ author: Melissa Stadler
 source: Modern Honey
 url: https://www.modernhoney.com/double-chocolate-chocolate-chip-skillet-cookie/
 favorite: false
+pdf_card: false
+needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29
