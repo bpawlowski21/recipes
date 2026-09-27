@@ -15,15 +15,15 @@ ingredients:
 author: Ashley Manila
 source: Baker by Nature
 url: https://bakerbynature.com/cranberry-cinnamon-whiskey-sour/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
+  - reference
 servings: 4 cocktails
 ---
 ## Ingredients

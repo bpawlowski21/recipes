@@ -14,16 +14,16 @@ ingredients:
 author:
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2006/11/chocolate-chip-sour-cream-coffee-cake/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
-yellow_book: false
+yellow_book: true
 passover_recipes: false
 servings: 24
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "There's no coffee in this cake — by 'coffee cake,' we mean something you'd serve with afternoon coffee — just lots and lots of sour cream. Yes I've made it with plain yogurt instead. I've even made it with low-fat yogurt. But mostly I make it as my grandmother and her sisters did, and am glad I did. Every time I make this, I'm convinced there's too much cinnamon-sugar and chocolate chips on each layer and each time it comes out of the oven and we try it, I am so glad I didn't touch the amounts. It's perfect." Source: a family recipe. First published November 21, 2006 on smittenkitchen.com.
 

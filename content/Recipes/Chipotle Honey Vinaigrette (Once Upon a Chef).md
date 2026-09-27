@@ -13,8 +13,8 @@ ingredients:
 author: Jenn Segal
 source: Once Upon a Chef
 url: https://www.onceuponachef.com/recipes/copycat-recipe-chipotle-mexican-grills-chipotle-honey-vinaigrette.html
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 1 1/4 cups
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 Inspired by Chipotle Mexican Grill's Honey Vinaigrette. "This chipotle honey vinaigrette tastes just like the original." Total Time: 10 Minutes.
 

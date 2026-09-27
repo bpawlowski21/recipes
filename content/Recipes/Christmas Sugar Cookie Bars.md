@@ -13,16 +13,16 @@ ingredients:
 author: "[[Tawnie Graham]]"
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
-yellow_book: false
+yellow_book: true
 passover_recipes: false
 servings: 24 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 Tawnie Graham of Kroll's Korner. "These Christmas Sugar Cookie Bars are everything you love about classic sugar cookies (soft, sweet, buttery, and full of holiday sprinkles) but without all the rolling and cutting. They bake in one pan and are topped with creamy vanilla frosting. A perfect, low-stress, nostalgic treat for holiday parties and cookie exchanges!" A different recipe from the other saved [[Sugar Cookie Bar]] (also by Karli Bitner).
 

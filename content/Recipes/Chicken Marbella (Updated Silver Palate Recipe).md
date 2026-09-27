@@ -15,16 +15,16 @@ ingredients:
 author: "[[Elizabeth Lindemann]]"
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
-yellow_book: false
+yellow_book: true
 passover_recipes: false
 servings: 8
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "Chicken Marbella made with chicken thighs is a twist on the classic recipe from the Silver Palate cookbook. Just mix chicken thighs with a marinade, let it sit overnight, then bake in the oven the next day for an elegant, flavorful meal that's easy to prep ahead of time!" A different recipe from the other saved [[The Silver Palate's Chicken Marbella]] (Christine Muhlke, NYT) — coincidentally, both got handwritten notes on their respective cards preferring chicken thighs over a whole chicken; this one starts from thighs by design.
 

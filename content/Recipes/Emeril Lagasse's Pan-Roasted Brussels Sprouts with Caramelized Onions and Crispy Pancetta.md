@@ -14,8 +14,8 @@ ingredients:
 author: Emeril Lagasse
 source: ABC News / GMA Food & Recipes
 url: http://abcnews.go.com/recipePrint?id=20943652&format=fullpage
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 4-6
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Emeril Lagasse's Pan-Roasted Brussels Sprouts with Caramelized Onions and Crispy Pancetta (handwritten).pdf]]
 

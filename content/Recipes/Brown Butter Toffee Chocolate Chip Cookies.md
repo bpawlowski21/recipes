@@ -14,8 +14,8 @@ ingredients:
 author: Sofi
 source: Broma Bakery
 url: https://bromabakery.com/brown-butter-toffee-chocolate-chip-cookies/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 18 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 A different recipe from the other saved [[Brown Butter Toffee Cookies]] (Sam Merritt) — this one adds dark chocolate alongside the toffee.
 

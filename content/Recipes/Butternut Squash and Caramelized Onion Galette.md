@@ -16,8 +16,8 @@ ingredients:
 author:
 source: Smitten Kitchen
 url: http://smittenkitchen.com/blog/2007/10/butternut-squash-and-caramelized-onion-galette/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -25,7 +25,7 @@ servings: 6
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ## Ingredients
 

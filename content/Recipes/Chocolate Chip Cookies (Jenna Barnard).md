@@ -13,8 +13,8 @@ ingredients:
 author: "[[Jenna Barnard]]"
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 9 large or 12 regular cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "This is your new go-to chocolate chip cookie recipe! It's no chill, mixed by hand, and they're ready in 30 minutes. They turn out soft and gooey on the inside and crisp and chewy on the outside." 5 from 303 reviews.
 

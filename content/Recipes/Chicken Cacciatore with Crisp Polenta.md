@@ -18,8 +18,8 @@ ingredients:
 author:
 source: Martha Stewart (Everyday Food, October 2008)
 url: http://www.marthastewart.com/313309/chicken-cacciatore-with-crisp-polenta
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -27,7 +27,7 @@ servings: Serves 4
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Chicken Cacciatore with Crisp Polenta (handwritten).pdf]]
 

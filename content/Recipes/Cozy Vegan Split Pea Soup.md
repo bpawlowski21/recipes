@@ -15,8 +15,8 @@ ingredients:
 author:
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -24,7 +24,7 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "This vegan split pea soup is incredibly smooth, flavorful and nutritious. It features sweet butternut squash along with celery, peas and spinach to give it a fresh take on the original. Smoked paprika, onion and garlic give it depth of flavor."
 

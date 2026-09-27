@@ -14,8 +14,8 @@ ingredients:
 author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2014/12/09/grand-marnier-chocolate-truffles/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 35 truffles
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 Total Time: 1 hours 15 minutes. Source: My Gramma via my Mother.
 

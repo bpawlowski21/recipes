@@ -14,15 +14,15 @@ ingredients:
 author: Meggan Hill
 source: Culinary Hill
 url: https://www.culinaryhill.com/chipotle-grilled-peppers-and-onions/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 servings: 4 (1/2 cup each)
 ---
 ## Ingredients

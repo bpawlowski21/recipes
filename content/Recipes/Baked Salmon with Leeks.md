@@ -12,7 +12,7 @@ ingredients:
 author:
 source:
 url: https://blog.williams-sonoma.com/baked-salmon-with-leeks/
-favorite: false
+favorite: true
 pdf_card: false
 needs_transcription: true
 yellow_book: false
@@ -20,8 +20,8 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
-  - "incomplete"
+  - reference
+  - incomplete
 ---
 ## Ingredients
 

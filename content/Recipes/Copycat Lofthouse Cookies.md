@@ -12,15 +12,15 @@ ingredients:
 author: Sofi
 source: Broma Bakery
 url: https://bromabakery.com/copycat-lofthouse-cookies/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
+  - reference
 ---
 ## Ingredients
 

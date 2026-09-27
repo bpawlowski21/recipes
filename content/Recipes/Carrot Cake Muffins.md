@@ -15,8 +15,8 @@ ingredients:
 author: Martha Rose Shulman
 source: NYT Cooking
 url: http://cooking.nytimes.com/recipes/1013494-carrot-cake-muffins
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -24,7 +24,7 @@ servings: Twelve muffins
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Carrot Cake Muffins (handwritten).pdf]]
 

@@ -13,16 +13,16 @@ ingredients:
 author: "[[Christina Marsigliese]]"
 source: Scientifically Sweet
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
-yellow_book: false
+yellow_book: true
 passover_recipes: false
 servings: 16 cookies
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - "reference"
+  - reference
 ---
 ![[Chocolate Chip Cookies (Bakery Style) (handwritten).pdf]]
 

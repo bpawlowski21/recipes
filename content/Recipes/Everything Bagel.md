@@ -13,8 +13,8 @@ ingredients:
 author: "[[Karli Bitner]]"
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 8 bagels
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "Every week in 2024, you'll find a new bagel recipe right here. Today, we're walking through my ultra delectable everything bagel recipe - you're sure to love it!"
 

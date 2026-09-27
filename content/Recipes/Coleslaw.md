@@ -14,8 +14,8 @@ ingredients:
 author: "[[Holly Nilsson]]"
 source:
 url: https://www.spendwithpennies.com/best-coleslaw-recipe/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "This creamy coleslaw is the best salad or sandwich topper. It's the perfect make-ahead dish, ideal for a BBQ or potluck!"
 

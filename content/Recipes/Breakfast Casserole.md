@@ -15,15 +15,15 @@ ingredients:
 author: Lauren Allen
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 servings: 12
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 This easy Breakfast Casserole recipe is made with eggs, sausage, and cheese and only takes a few minutes to throw together. Can be made ahead of time, so it's the perfect breakfast casserole for Christmas morning or any day!
 

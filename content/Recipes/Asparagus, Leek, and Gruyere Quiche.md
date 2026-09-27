@@ -15,8 +15,8 @@ ingredients:
 author: "[[Wendy Nash]]"
 source: Everyday Food, April 2009
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -24,7 +24,7 @@ servings: Serves 6
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 Gruyere is an aged Swiss cheese with a nutty flavor that tastes great with eggs. To make sure the vegetables are distributed evenly, spread them in the crust before pouring in the egg mixture.
 

@@ -13,8 +13,8 @@ ingredients:
 author: "[[Karli Bitner]]"
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 8 bagels
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "The Panera Bread copycat Cinnamon Crunch Bagel recipe is HERE! And it's even better than the original (but I'll let you be the judge of that)."
 

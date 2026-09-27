@@ -13,8 +13,8 @@ ingredients:
 author: "[[Jenna Barnard]]"
 source:
 url: https://butternutbakeryblog.com/thick-bakery-style-chocolate-chip-cookies/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 6
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 "5 from 32 reviews." "These are the ULTIMATE bakery style chocolate chip cookies that you can make right at home. They're large and in charge with a gooey center, chewy edges, and rich flavor using a few secret ingredients."
 

@@ -17,8 +17,8 @@ ingredients:
 author:
 source: Kraft Foods
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -26,7 +26,7 @@ servings: 12 servings, 1 cup each
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Crunchy Asian Salad (handwritten).pdf]]
 

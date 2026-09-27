@@ -14,8 +14,8 @@ ingredients:
 author: "[[Christina Marsigliese]]"
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 5 huge cookies
 created: 2026-07-29
 last: 2026-08-12
 tags:
-  - "reference"
+  - reference
 ---
 ![[Chocolate Chip Cookies (Christina Marsigliese) (handwritten).pdf]]
 

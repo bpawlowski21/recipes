@@ -13,15 +13,15 @@ ingredients:
 author:
 source: The Kitchn
 url: https://www.thekitchn.com/recipe-candy-cane-cookies-dessert-recipes-from-the-kitchn-213928
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 servings: Makes 2 dozen cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Candy Cane Cookies (handwritten).pdf]]
 

@@ -14,8 +14,8 @@ ingredients:
 author: "[[Allie Petersen]]"
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 3
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "You will love this quick teriyaki tofu with crispy tofu pieces, mouthwatering homemade teriyaki sauce, fresh crisp vegetables, and warm, sticky rice."
 

@@ -14,15 +14,15 @@ ingredients:
 author: Sarah Kieffer
 source: The Vanilla Bean Blog
 url: https://www.thevanillabeanblog.com/chocolate-orange-sables/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
+  - reference
 ---
 ## Ingredients
 

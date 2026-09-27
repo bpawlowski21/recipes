@@ -13,15 +13,15 @@ ingredients:
 author: dianemorrisey
 source: Instagram
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 Forwarded by email (Wendy Nash to herself, Sunday, November 17, 2024) as a screenshot of an Instagram post from dianemorrisey.
 

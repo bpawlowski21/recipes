@@ -12,15 +12,15 @@ ingredients:
 author: Deb Perelman
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2021/04/classic-shortbread/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 ## Ingredients
 

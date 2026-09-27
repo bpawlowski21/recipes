@@ -13,8 +13,8 @@ ingredients:
 author:
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 8-10
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 ![[Easy Skillet Apple Pie (handwritten).pdf]]
 

@@ -13,8 +13,8 @@ ingredients:
 author: Ayeh
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 2
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "This sticky tofu is crispy on the outside with a sweet sticky glaze. The perfect dinner with rice and veggies and easy to make in 15 minutes."
 

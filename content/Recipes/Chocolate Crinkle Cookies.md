@@ -13,16 +13,16 @@ ingredients:
 author: "[[John Kanell]]"
 source:
 url: https://preppykitchen.com/chocolate-crinkle-cookies/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
-yellow_book: false
+yellow_book: true
 passover_recipes: false
 servings: 48 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "The Preppy Kitchen" (site name, noted by hand on the original printed card from a different scan). "Rich and fudgy Chocolate Crinkle Cookies are as fun to make as they are delicious and indulgent! Made using pantry staples and simple steps, these cookies are perfect to bake for the holidays or any time the craving hits."
 

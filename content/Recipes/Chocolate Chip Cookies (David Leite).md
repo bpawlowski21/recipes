@@ -13,8 +13,8 @@ ingredients:
 author: David Leite
 source: NYT Cooking
 url: https://cooking.nytimes.com/recipes/1015819-chocolate-chip-cookies
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 1 1/2 dozen 5-inch cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 Time: 45 minutes, plus chilling. You may have memorized the foolproof gem on the back of the Toll House bag, given to the world by Ruth Graves Wakefield in the 1930s. But this may become your new favorite chocolate chip cookie recipe. It's a little more complicated, and you'll have to plan ahead: after assembling the dough, you must chill it for at least 24 hours before baking it, and preferably up to 36. This allows the dry ingredients time to soak up the wet ones, which results in a firmer dough. It leads to a marvelously chewy, chocolate-rich cookie. Don't skimp on good chocolate, and the sea salt is not an option — it's the beacon at the top of this gorgeous treat. Adapted From Jacques Torres.
 

@@ -15,16 +15,16 @@ ingredients:
 author: K
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
-yellow_book: false
+yellow_book: true
 passover_recipes: false
 postmarked: 1995-01-06
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
+  - reference
 ---
 Handwritten on the back of a postcard mailed to [[Wendy Nash]] at 326 East 34th St, Apt D4, New York, NY 10016 — postmarked Niagara Falls, NY, January 6, 1995, signed "Love you, K." Original postcard scan:
 

@@ -15,8 +15,8 @@ ingredients:
 author:
 source: Epicurious (Gourmet, February 1994)
 url: https://www.epicurious.com/recipes/food/views/Caesar-Salad-11636
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -24,7 +24,7 @@ servings: Serves 6
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Caesar Salad (Gourmet 1994) (handwritten).pdf]]
 

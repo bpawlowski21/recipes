@@ -16,15 +16,15 @@ ingredients:
 author:
 source: Well Plated
 url: https://www.wellplated.com/brie-bites/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 servings: 48 bites
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 Baked Brie Bites are the ultimate easy holiday appetizer and will wow your guests! Made with puff pastry, Brie cheese, cranberry or raspberry, and pecans.
 

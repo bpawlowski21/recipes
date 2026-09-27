@@ -15,8 +15,8 @@ ingredients:
 author: "[[Tawnie Graham]]"
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -24,7 +24,7 @@ servings: 16
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 Tawnie Graham of Kroll's Korner. "This Cannoli Dip is a deconstructed version of your favorite Italian dessert, perfect for dipping cookies, fruit, or waffle cones. Ready in just 10 minutes, it's the ultimate party treat!"
 

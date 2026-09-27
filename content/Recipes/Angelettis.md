@@ -13,15 +13,15 @@ ingredients:
 author: Gerry DiSanto
 source: Martha Stewart
 url: http://www.marthastewart.com/326516/angelettis
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 servings: Makes about 6 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Angelettis (handwritten).pdf]]
 

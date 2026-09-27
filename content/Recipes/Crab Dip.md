@@ -15,8 +15,8 @@ ingredients:
 author: "[[Lauren Allen]]"
 source:
 url: https://tastesbetterfromscratch.com/crab-dip/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -24,7 +24,7 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "This easy Crab Dip recipe is meant to impress, made with fresh lump crab meat in a creamy dip that can be served hot or cold."
 

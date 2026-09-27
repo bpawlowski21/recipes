@@ -16,15 +16,15 @@ ingredients:
 author: Liz Thomson
 source: I Heart Vegetables
 url: https://iheartvegetables.com/vegetarian-buffalo-dip/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
+  - reference
 ---
 ## Ingredients
 

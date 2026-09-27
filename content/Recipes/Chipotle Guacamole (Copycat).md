@@ -14,15 +14,15 @@ ingredients:
 author: Meggan Hill
 source: Culinary Hill
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 This Chipotle Guacamole recipe is the real deal. With just seven ingredients and a few minutes, enjoy as much Chipotle Guacamole at home as you can mash!
 

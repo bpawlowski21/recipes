@@ -13,8 +13,8 @@ ingredients:
 author:
 source:
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 10 huge cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "This Levain bakery copycat is the real deal - huge gooey chocolate chip cookies that are sure to leave you drooling." A different, larger-format Levain copycat recipe from the other saved [[Chocolate Chip Cookies (Christina Marsigliese)]] — this one uses cold butter and no walnuts, that one uses room-temp butter and walnuts and makes smaller cookies.
 

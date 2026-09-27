@@ -14,14 +14,14 @@ ingredients:
 author: Ina Garten
 source:
 url: https://food-network.app.link/vgIo3BvNB2
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 created: 2026-07-30
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Cherry Pistachio Biscotti (handwritten).pdf]]
 

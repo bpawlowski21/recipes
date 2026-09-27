@@ -14,15 +14,15 @@ ingredients:
 author:
 source: Martha Stewart
 url: http://www.marthastewart.com/337684/dark-chocolate-cookies-with-sour-cherrie
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 servings: Makes about 3 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Dark Chocolate Cookies with Sour Cherries (handwritten).pdf]]
 

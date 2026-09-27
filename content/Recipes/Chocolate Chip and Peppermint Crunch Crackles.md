@@ -14,15 +14,15 @@ ingredients:
 author:
 source: Epicurious (Bon Appétit, December 2002)
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 servings: Makes about 36
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 These fudgy treats, also known as crinkles, get their name from the small wrinkles that develop on top as they bake.
 

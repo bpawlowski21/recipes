@@ -14,8 +14,8 @@ ingredients:
 author: Colette Tihista-Longin
 source: Sunset (MyRecipes.com)
 url: http://www.myrecipes.com/recipe/chocolate-thumbprints-caramel-sea-salt
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: about 40 cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 From Great Falls, Montana, Colette Tihista-Longin writes: "I found this cookie recipe in an old collection at a yard sale. The original recipe has a chocolate filling, but I adapted it to include caramel and sea salt several years ago. It's a hit every year at our cookie exchange." Despite the name for this style of cookie, the end of a wooden spoon makes a neater, deeper depression in the cookie than your thumb will.
 

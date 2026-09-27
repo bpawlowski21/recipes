@@ -14,16 +14,16 @@ ingredients:
 author: Alexandra Stafford
 source:
 url: https://alexandracooks.com/2012/01/17/jean-georges-chocolate-tart/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
-yellow_book: false
+yellow_book: true
 passover_recipes: false
 servings: 6
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 Total time: 52 minutes
 

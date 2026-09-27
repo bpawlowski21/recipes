@@ -14,8 +14,8 @@ ingredients:
 author:
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2020/03/ultimate-banana-bread/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 8 to 10
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Banana Bread (handwritten).pdf]]
 

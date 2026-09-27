@@ -14,16 +14,16 @@ ingredients:
 author:
 source: "Smitten Kitchen (adapted from Dorie Greenspan's \"Baking: From My Home to Yours\")"
 url: https://smittenkitchen.com/2007/12/espresso-chocolate-shortbread-cookies/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 servings: 42 cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
-  - "incomplete"
+  - reference
+  - incomplete
 ---
 ![[Espresso-Chocolate Shortbread Cookies (handwritten).pdf]]
 

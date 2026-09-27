@@ -13,15 +13,15 @@ ingredients:
 author: Ashley Manila
 source: Baker by Nature
 url: https://bakerbynature.com/coffee-cake-donuts-with-vanilla-glaze/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
+  - reference
 ---
 ## Ingredients
 

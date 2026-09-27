@@ -13,8 +13,8 @@ ingredients:
 author: "[[Sam Merritt]]"
 source:
 url: https://sugarspunrun.com/brown-butter-toffee-cookies/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 24 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "My soft and chewy brown butter toffee cookies are packed with toffee pieces and flavored with vanilla, brown butter, and sprinkling of sea salt. Never browned butter before? I'll show you how!" A different recipe from the other saved [[Brown Butter Toffee Chocolate Chip Cookies]] (Sofi | Broma Bakery).
 

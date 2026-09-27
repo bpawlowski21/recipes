@@ -14,15 +14,15 @@ ingredients:
 author:
 source: King Arthur Baking
 url: https://www.kingarthurbaking.com/recipes/crispy-cheesy-pan-pizza-recipe
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
 created: 2026-07-29
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 ![[Crispy Cheesy Pan Pizza (handwritten).pdf]]
 

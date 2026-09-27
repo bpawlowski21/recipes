@@ -15,16 +15,16 @@ ingredients:
 author: Kaitlin
 source: The Woks of Life
 url: https://thewoksoflife.com/easy-miso-soup/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
-yellow_book: false
+yellow_book: true
 passover_recipes: false
 servings: 4
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 "A super simple, hearty miso soup that can be made from pantry ingredients. In our experience, it also makes a great cold remedy!" Calories: 131kcal. "5 from 15 votes."
 

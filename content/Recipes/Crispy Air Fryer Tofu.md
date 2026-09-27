@@ -13,8 +13,8 @@ ingredients:
 author: cookingforpeanuts
 source: Instagram
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot.
 

@@ -15,8 +15,8 @@ ingredients:
 author: Holly Nilsson
 source: Spend with Pennies
 url: https://www.spendwithpennies.com/7-layer-dip/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -24,7 +24,7 @@ servings: 16
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 ![[7 Layer Dip (handwritten).pdf]]
 

@@ -16,16 +16,16 @@ ingredients:
 author: Tieghan Gerard
 source: Half Baked Harvest
 url: https://www.halfbakedharvest.com/holiday-cheermeister-bourbon-punch/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
-  - "Holiday"
+  - reference
+  - Holiday
 servings: 8
 ---
 ## Ingredients

@@ -12,15 +12,15 @@ ingredients:
 author: Alexandra Stafford
 source:
 url: https://alexandracooks.com/2014/12/16/hollys-challah/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 servings: 1 loaf
 ---
 I learned this recipe from my friend, Holly, who calls it Jennifer's Challah. The recipe doubles well. Bread keeps well in a ziplock bag on the counter for several days, and it freezes well, too.

@@ -13,8 +13,8 @@ ingredients:
 author: "[[Sam Merritt]]"
 source:
 url: https://sugarspunrun.com/basque-cheesecake-burnt-cheesecake/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 10 slices
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 ---
 "Basque cheesecake, (also known as burnt cheesecake), originated in Spain and has become an internet sensation with its blackened top and outrageously creamy interior. Believe it or not, it's also the easiest cheesecake recipe on my blog with only 5 minutes of prep and no water bath!"
 

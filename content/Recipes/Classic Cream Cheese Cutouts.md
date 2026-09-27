@@ -13,8 +13,8 @@ ingredients:
 author: Alexandra Stafford
 source: Alexandra's Kitchen
 url: https://alexandracooks.com/2016/12/11/classic-cream-cheese-cutout-cookies/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -22,7 +22,7 @@ servings: 50 cookies
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 Total Time: 1 hour 35 minutes.
 

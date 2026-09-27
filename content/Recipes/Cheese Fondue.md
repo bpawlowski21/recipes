@@ -16,15 +16,15 @@ ingredients:
 author:
 source:
 url: https://www.wellplated.com/cheese-fondue-recipe/
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
+  - reference
 servings: 6
 ---
 A classic cheese fondue recipe that is easy and sure to impress guests.

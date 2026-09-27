@@ -14,8 +14,8 @@ ingredients:
 author: Six Sisters' Stuff
 source: Six Sisters' Stuff
 url: http://www.sixsistersstuff.com/2014/12/chocolate-orange-truffles.html
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: true
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 70
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
+  - reference
 ---
 Prep time: 30 mins · Cook time: 5 mins · Total time: 35 mins
 

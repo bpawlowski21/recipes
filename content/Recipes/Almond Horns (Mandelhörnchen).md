@@ -15,7 +15,7 @@ author: Deb Perelman
 source: Smitten Kitchen
 url: https://smittenkitchen.com/2017/04/almond-horn-cookies/
 favorite: true
-pdf_card: false
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: true

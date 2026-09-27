@@ -14,8 +14,8 @@ ingredients:
 author: Eli K. Giannopoulos
 source: mygreekdish.com
 url:
-favorite: false
-pdf_card: false
+favorite: true
+pdf_card: true
 needs_transcription: false
 yellow_book: false
 passover_recipes: false
@@ -23,7 +23,7 @@ servings: 3 cups
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
+  - reference
 ---
 Handwritten corrections on the printed card (a different, distinct Tzatziki recipe from the one already in the vault — this one is by Eli K. Giannopoulos, uses 500g strained Greek yogurt, olive oil, and red wine vinegar). Original scan:
 
