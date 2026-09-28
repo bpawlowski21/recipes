@@ -22,7 +22,6 @@ servings: 20
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Soft and Chewy Lemon Sugar Cookies are the perfect balance of sweet and slightly tart.
 

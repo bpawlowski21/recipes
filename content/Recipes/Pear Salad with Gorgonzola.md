@@ -24,7 +24,6 @@ servings: 4 side servings (or 2 large portions)
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Pear Salad with Gorgonzola (handwritten).pdf]]
 

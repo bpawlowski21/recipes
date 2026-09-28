@@ -22,7 +22,6 @@ servings: 19 to 20 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "These chocolate frosted cookies are soft, chewy, and fudge-like. It's a simple drop cookie recipe, no rolling pin required, and the creamy chocolate frosting is a scaled down version of fan-favorite chocolate buttercream. Chilling the cookie dough for 2 hours is imperative."
 

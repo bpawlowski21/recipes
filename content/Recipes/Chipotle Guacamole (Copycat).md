@@ -22,7 +22,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 This Chipotle Guacamole recipe is the real deal. With just seven ingredients and a few minutes, enjoy as much Chipotle Guacamole at home as you can mash!
 

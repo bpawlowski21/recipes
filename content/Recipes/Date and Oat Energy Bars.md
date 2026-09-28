@@ -24,7 +24,6 @@ servings: 10 bars
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. "They only take 5 mins to prep and 10 mins to cook, and if you bake them in a mini brownie tin then each bar has lovely crispy edges too."
 

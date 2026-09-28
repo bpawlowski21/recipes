@@ -23,7 +23,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
 servings: "2 dozen (serving size: 1 brownie)"
 ---
 Printed magazine "cover recipe" clipping (scanned, not handwritten — no source document attached per the vault's handwritten-only attachment policy).

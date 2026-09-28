@@ -24,7 +24,6 @@ servings: Makes 2 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Crunchy Chocolate Treats (handwritten).pdf]]
 

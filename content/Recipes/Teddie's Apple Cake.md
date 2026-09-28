@@ -21,7 +21,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 servings: 8-10 servings
 ---
 Source: Amanda Hesser and The New York Times. Handwritten tasting notes on the original scan. Original page:

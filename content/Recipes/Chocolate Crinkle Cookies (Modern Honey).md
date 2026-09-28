@@ -22,7 +22,6 @@ servings: 30
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Soft, chewy, rich, fudgy chocolate cookies rolled into two types of sugar and baked until the edges crinkle.
 

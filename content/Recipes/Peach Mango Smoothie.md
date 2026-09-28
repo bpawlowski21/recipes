@@ -24,7 +24,6 @@ servings: 2 smoothies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("Peach mango smoothie"), originally bookmarked with a note to add vanilla protein powder and blend spinach with the milk first if adding it.
 

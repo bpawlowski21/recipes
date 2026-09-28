@@ -24,7 +24,6 @@ servings: 24 cupcakes
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Easy Chocolate Cupcakes (with Buttercream Frosting) (handwritten).pdf]]
 

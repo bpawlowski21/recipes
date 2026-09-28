@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post (2 slides). "These super crunchy bites are the perfect start for every meal! They're the ultimate combination of spicy, sweet and salty."
 

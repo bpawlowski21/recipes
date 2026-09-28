@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "I love dates, dark chocolate and tahini together so I made it into an official dessert."
 

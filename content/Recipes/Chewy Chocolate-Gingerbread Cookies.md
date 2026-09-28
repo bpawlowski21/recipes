@@ -22,7 +22,6 @@ servings: Makes 2 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 A combination of fresh and ground ginger, molasses, and chunks of semisweet chocolate makes the cookies sophisticated enough for adults but chocolaty enough for children. Featured in "Martha Stewart's Cookies." (The Martha Stewart Show, October/Fall 2007.)
 

@@ -23,7 +23,6 @@ servings: Makes 5 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 For busy bakers, icebox cookies are indispensable: Whenever fresh, warm treats are called for, these orange delights can be popped into the oven for an instant treat.
 

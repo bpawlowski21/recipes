@@ -23,7 +23,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 A different Mediterranean Bean Salad from the one already in the vault (that one's by betterfoodguru, via Apple Notes, with cannellini beans and olives). This one's delightfully crisp with kidney beans, chickpeas, lemon, garlic and leafy herbs — vegan and gluten free.
 

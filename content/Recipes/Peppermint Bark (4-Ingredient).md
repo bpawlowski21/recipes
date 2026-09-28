@@ -24,7 +24,6 @@ servings: 48 pieces
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Made with only four ingredients, this peppermint bark is one of the simplest holiday cookies you could make and one of the most festive, too. What's more, it yields a ton, making it perfect for gifting all season long. So easy, so pretty, so delicious!" Adapted from Dinner at The Zoo's recipe, with small changes to the method (stovetop + double boiler to melt the chocolates) and to the candy canes (blitzed into dust rather than coarsely chopped).
 

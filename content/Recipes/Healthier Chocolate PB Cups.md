@@ -24,7 +24,6 @@ servings: 12 cups
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta") — despite the folder, this isn't strictly vegan (uses honey, though maple syrup is offered as a substitute). "If you need to satisfy your sweet tooth, you need to make these!"
 

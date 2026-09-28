@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post (author handle not captured in the saved screenshot).
 

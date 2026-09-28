@@ -23,7 +23,6 @@ servings: 35 truffles
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 Total Time: 1 hours 15 minutes. Source: My Gramma via my Mother.
 

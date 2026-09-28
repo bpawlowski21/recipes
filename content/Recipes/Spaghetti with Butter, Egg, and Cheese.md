@@ -23,7 +23,6 @@ servings: 4 to 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes under "PASTA" as "Quick Spaghetti Carbonara," with a note to top with a jammy egg.
 

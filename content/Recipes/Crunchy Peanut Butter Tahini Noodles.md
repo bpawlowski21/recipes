@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 **From Wendy herself** — printed from an email Wendy Nash sent on Wednesday, May 6, 2026 at 2:13 PM (from wendynash@mac.com, to herself, forwarding something she'd saved on her phone), subject "Crunchy peanut butter tahini noodles." Unlike the rest of this batch, this isn't a blog or magazine clipping — it's Wendy's own saved recipe, part of the collection this whole digitization project is for.
 

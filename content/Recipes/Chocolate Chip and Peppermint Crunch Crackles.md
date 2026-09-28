@@ -22,7 +22,6 @@ servings: Makes about 36
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 These fudgy treats, also known as crinkles, get their name from the small wrinkles that develop on top as they bake.
 

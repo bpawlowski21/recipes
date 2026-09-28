@@ -23,7 +23,6 @@ servings: 10 servings
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 This Nutella-filled Star Bread or Snowflake Bread is an impressive but easy sweet bread that can be filled with all sorts of flavors from cinnamon sugar to cookie butter or raspberry jam and is perfect for holidays, brunches, and gatherings! Let everyone pull off their own pieces and enjoy with a glass of milk or a breakfast casserole!
 

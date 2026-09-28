@@ -25,7 +25,6 @@ servings: 2 to 3 servings, petitely; 1 to 2, generously
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Quick Pasta and Chickpeas (handwritten).pdf]]
 

@@ -23,7 +23,6 @@ servings: 24 cookies
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - "reference"
 ---
 A different recipe from the other saved [[Brown Butter Toffee Cookies]] (Sam Merritt) and [[Brown Butter Toffee Chocolate Chip Cookies]] (Sofi) — this one has no chocolate at all, just toffee bits (plus optional pecans/walnuts).
 

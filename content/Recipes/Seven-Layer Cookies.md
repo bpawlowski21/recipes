@@ -24,7 +24,6 @@ servings: About 5 dozen cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Seven-Layer Cookies (handwritten).pdf]]
 

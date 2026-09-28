@@ -22,7 +22,6 @@ servings: 9 large or 12 regular cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "This is your new go-to chocolate chip cookie recipe! It's no chill, mixed by hand, and they're ready in 30 minutes. They turn out soft and gooey on the inside and crisp and chewy on the outside." 5 from 303 reviews.
 

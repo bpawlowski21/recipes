@@ -24,7 +24,6 @@ servings: 3, 356 cal / 19P / 34C / 11F each
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "We still got loads of zucchini at home, so here's another delicious way to use it up! Those falafel are crispy on the outside and soft on the inside, super flavoursome and complete with the yogurt-tahini-dip. You can either shallow fry, fry, air-fry or bake the falafel."
 

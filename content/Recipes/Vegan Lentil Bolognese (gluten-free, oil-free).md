@@ -25,7 +25,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 This vegan lentil bolognese is comforting, meaty, hearty, filling and nutritious. If you want a healthier version of a meat sauce you need to try this plant-based option!
 

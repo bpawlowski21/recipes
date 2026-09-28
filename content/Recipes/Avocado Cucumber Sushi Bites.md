@@ -25,7 +25,6 @@ servings: 4 to 6 (appetizer) or 1 to 2 (light lunch/dinner)
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. Prep time: 10 minutes + 25 minute cook time.
 

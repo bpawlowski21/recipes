@@ -22,7 +22,6 @@ servings: 10 huge cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "This Levain bakery copycat is the real deal - huge gooey chocolate chip cookies that are sure to leave you drooling." A different, larger-format Levain copycat recipe from the other saved [[Chocolate Chip Cookies (Christina Marsigliese)]] — this one uses cold butter and no walnuts, that one uses room-temp butter and walnuts and makes smaller cookies.
 

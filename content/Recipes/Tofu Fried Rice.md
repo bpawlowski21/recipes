@@ -25,7 +25,6 @@ servings: 4 servings (serving size 1 1/2 cups)
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Tofu Fried Rice (handwritten).pdf]]
 

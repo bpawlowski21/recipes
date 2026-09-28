@@ -23,7 +23,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "A classic cocktail with a holiday twist."
 

@@ -23,7 +23,6 @@ servings: 10
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Photographed from the side panel of a Duncan Hines Moist Deluxe Butter Recipe Golden Cake Mix box.
 

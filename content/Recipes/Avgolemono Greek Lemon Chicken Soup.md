@@ -24,7 +24,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "Avgolemono: Greek Lemon Chicken Soup." "Silky, rich, fragrant chicken soup, prepared Greek-style with avgolemono sauce, which is a Greek lemon-egg sauce with warm broth. Best part, this weeknight version comes together in just over 30 minutes." 4.9 from 304 reviews. A different (chicken-based) recipe from the other saved [[Vegetarian Avgolemono Soup (Greek Lemon Chickpea Soup)]] (Sarah Bond).
 

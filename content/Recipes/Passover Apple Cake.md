@@ -24,7 +24,6 @@ servings: 9 to 12
 created: 2026-07-29
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Passover Apple Cake (handwritten).pdf]]
 

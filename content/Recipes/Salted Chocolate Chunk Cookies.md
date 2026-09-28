@@ -22,7 +22,6 @@ servings: 18 to 24 cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Salted Chocolate Chunk Cookies (handwritten).pdf]]
 

@@ -24,7 +24,6 @@ servings: 36
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - "reference"
 ---
 ![[Neiman Marcus Chocolate Chip Cookies (handwritten).pdf]]
 

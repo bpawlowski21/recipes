@@ -22,7 +22,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("Zucchini Soup"), photographed from Food & Wine magazine, "Everyday Masters" column, July 2014 — F&W Chef-in-Residence Grant Achatz of Chicago's Alinea. Achatz on zucchini: "People expect to caramelize onions, but zucchini browned in olive oil is equally delicious."
 

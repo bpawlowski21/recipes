@@ -22,7 +22,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta") — despite the folder, this uses real Greek yogurt, not a vegan substitute. "It starts with the cucumber — it needs to be peeled and properly strained. Use full-fat Greek yogurt, not 'Greek style.' Don't overload it with garlic, one clove is enough — it gets stronger as it sits. It needs acidity, vinegar is what brings it to life. And finish it with good Greek olive oil. That's it. Perfect for gyro, souvlaki, grilled meats, or your next BBQ." "Keep it simple, keep it real."
 

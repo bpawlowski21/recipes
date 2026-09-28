@@ -25,7 +25,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Saved from Apple Notes as "Sweet potato, red lentils, kale (chop and double amount), chickpeas."
 

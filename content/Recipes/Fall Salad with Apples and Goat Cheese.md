@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 From a "25+ Rosh Hashanah Recipes" roundup post. Total time: 15 minutes · Diet: Vegetarian
 

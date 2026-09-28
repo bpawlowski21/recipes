@@ -22,7 +22,6 @@ servings: 12 to 24 rolls
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Adapted from *Bread Toast Crumbs*. "11/15/2024 Update: I recently updated the recipe slightly in that I've upped the amount of flour from the start to 550 grams, and I've also, as a result, upped the salt. This higher amount of flour makes the dough slightly more manageable to work with and does not sacrifice any flavor."
 

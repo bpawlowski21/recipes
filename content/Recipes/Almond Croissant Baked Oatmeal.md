@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "This baked oatmeal will leave you feeling satisfied and energized for the day."
 

@@ -22,7 +22,6 @@ servings: 16 cookies
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - reference
 ---
 ![[Chocolate Chip Cookies (Bakery Style) (handwritten).pdf]]
 

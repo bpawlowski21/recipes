@@ -23,7 +23,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
   - "Holiday"
 ---
 "Try my delicious Holiday White Cosmopolitan for a chic holiday cocktail. Perfect for parties with its festive and balanced flavor."

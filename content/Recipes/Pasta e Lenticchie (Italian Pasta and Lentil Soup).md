@@ -23,7 +23,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Printed from an email (Wendy Nash, "Italian pasta and lentil soup", forwarded to herself on 2026-01-01) containing a screenshot of an Instagram comment (397 likes) titled "Pasta e Lenticchie": "In Italy, they say to eat lentils on New Year's for good luck and prosperity because they look like tiny ancient coins. Beyond the tradition, this is a true Blue Zones longevity recipe. It's the kind of simple, one-pot weeknight dinner that helps you live to 100. It's rustic, humble, and proof that you don't need much to make something that is good for you. Nonna would approve of this Lentil Soup!"
 

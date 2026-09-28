@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Savory and crisp pan-fried tofu and veggies drizzled with a mouthwatering peanut sauce - yum! This is an easy one pan weeknight dinner that pairs perfectly with rice or noodles."
 

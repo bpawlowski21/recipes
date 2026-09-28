@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Comforting, 1-pot noodle soup made with chickpeas instead of chicken. Plant-based and gluten-free, and bursting with color, flavor, and wholesome ingredients!"
 

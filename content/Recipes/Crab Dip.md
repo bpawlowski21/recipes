@@ -24,7 +24,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "This easy Crab Dip recipe is meant to impress, made with fresh lump crab meat in a creamy dip that can be served hot or cold."
 

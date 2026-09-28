@@ -23,7 +23,6 @@ servings: 8 slices
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Vegan Lentil Loaf (handwritten).pdf]]
 

@@ -24,7 +24,6 @@ servings: 5 to 6 sandwiches
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - "reference"
 ---
 "This low-effort, high-impact chickpea salad sandwich is the antidote to your sad desk lunch! Chickpeas are mashed up and coated in a zingy, creamy dressing with bites of crisp veggies for textural fun. Sandwich a scoop between toasted, garlic-rubbed bread, or make it your own!"
 

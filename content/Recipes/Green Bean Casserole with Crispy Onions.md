@@ -24,7 +24,6 @@ servings: 6
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Green Bean Casserole with Crispy Onions (handwritten).pdf]]
 

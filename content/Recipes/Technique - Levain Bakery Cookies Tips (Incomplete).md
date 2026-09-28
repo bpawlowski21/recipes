@@ -22,7 +22,6 @@ created: 2026-07-29
 last: 2026-07-29
 tags:
   - "technique"
-  - "reference"
 ---
 **Incomplete** — only the tips/notes and nutrition tail of a Levain Bakery chocolate chip cookie copycat recipe was captured on this scanned page; the title, ingredients, and instructions weren't on the page (either scanned separately and lost, or never printed). This is a third, distinct recipe from the other two already in the vault ([[Chocolate Chip Cookie - Levain Bakery]] and [[Chocolate Chip Cookies (Christina Marsigliese)]]) — the nutrition figure here (609 kcal/large cookie) doesn't match either.
 

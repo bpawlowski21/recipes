@@ -23,7 +23,6 @@ servings: 20 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Tawnie Graham of Kroll's Korner. "Calling all chocolate and mint lovers! These Chocolate Andes Mint Cookies taste like a warm, gooey brownie bursting with Andes mint flavor. They're incredibly soft, chewy, and fudgy, aka the perfect festive treat for the holidays."
 

@@ -23,7 +23,6 @@ servings: 32 large cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[The Worst Ever Chocolate Chip Cookies (handwritten).pdf]]
 

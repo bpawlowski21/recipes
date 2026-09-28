@@ -24,7 +24,6 @@ servings: Serves 6
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 Gruyere is an aged Swiss cheese with a nutty flavor that tastes great with eggs. To make sure the vegetables are distributed evenly, spread them in the crust before pouring in the egg mixture.
 

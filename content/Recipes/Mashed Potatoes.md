@@ -24,7 +24,6 @@ servings: 10-12
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 These homemade mashed potatoes are perfectly rich and creamy, full of great flavor, easy to make, and always a crowd fave. Feel free to halve this recipe if you would like to make a smaller batch. Recipe loosely adapted from The New York Times.
 

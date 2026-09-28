@@ -23,7 +23,6 @@ servings: about 10 (8-ounce jars)
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta") — despite the folder, this isn't strictly vegan (uses honey, and is served with dairy whipped cream, described by the author as "dairy moderation not elimination"). "They fall somewhere in between a pudding and mousse thanks to the lightness of almond milk with some aeration from the blender."
 

@@ -22,7 +22,6 @@ servings: 8 ounces
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Strawberry Bagel Schmear is a perfect combination of sweet strawberries and rich cream cheese. Top bagels, toast or even fresh bread with this schmear to dazzle your tastebuds."
 

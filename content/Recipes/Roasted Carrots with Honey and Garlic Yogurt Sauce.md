@@ -25,7 +25,6 @@ servings: 4 to 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Handwritten note on the card clarifying the honey amount. Original scan:
 

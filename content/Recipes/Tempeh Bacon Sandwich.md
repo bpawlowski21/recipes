@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post (comments, partial — the intro/serving-size line was cut off before the saved screenshot starts).
 

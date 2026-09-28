@@ -21,7 +21,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 Heavily annotated with tested modifications. Original scan:
 

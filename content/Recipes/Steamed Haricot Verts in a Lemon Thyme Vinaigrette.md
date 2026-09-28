@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Diane said she turns to green beans anytime she's making food for a crowd because they're easy, delicious and nearly impossible to mess up. Plus, they can be prepped the day before, they don't need to be piping hot to taste good and they look beautiful in a big bowl or platter. When I am serving a lot of people with a buffet, this is always my 'fall-back' veggie."
 

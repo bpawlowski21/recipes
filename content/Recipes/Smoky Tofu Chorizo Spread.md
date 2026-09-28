@@ -21,7 +21,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. "This is a game changing condiment for your larder... goes in burgers, sandwiches, in rice bowls, noodle dishes... wherever you like."
 

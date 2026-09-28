@@ -23,7 +23,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 servings: 6 with massive portions to 12 with regular-sized ones
 ---
 ## Ingredients

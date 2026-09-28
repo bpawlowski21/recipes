@@ -24,7 +24,6 @@ servings: 8 servings (about ¾ cup each)
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Prep Time: 5 minutes + 1 hour chilling · Total Time: 1 hour 5 minutes
 

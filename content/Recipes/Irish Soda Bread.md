@@ -22,7 +22,6 @@ servings: 20
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "Irish soda bread made with buttermilk and basic pantry ingredients. The buttermilk gives this crusty loaf a good flavor. It's the best Irish soda bread around!" Handwritten note on the card, in cursive: "Gabby's fave!" — a personal endorsement, not a recipe change.
 

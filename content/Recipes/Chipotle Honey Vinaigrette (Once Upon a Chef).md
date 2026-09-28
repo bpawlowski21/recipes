@@ -22,7 +22,6 @@ servings: 1 1/4 cups
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 Inspired by Chipotle Mexican Grill's Honey Vinaigrette. "This chipotle honey vinaigrette tastes just like the original." Total Time: 10 Minutes.
 

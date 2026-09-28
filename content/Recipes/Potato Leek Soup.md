@@ -23,7 +23,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Thick, creamy, and smooth, this potato leek soup recipe is a hearty and flavorful recipe, perfect for the colder weather."
 

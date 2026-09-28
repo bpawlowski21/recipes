@@ -21,7 +21,6 @@ servings: 1 pound, 8 pieces
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Culinary school practical formula (baker's-scale weights). Total: 454 grams / 1 pound.
 

@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "The most amazing lunch, dinner, or starter — basically a whenever you want it kinda meal."
 

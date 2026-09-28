@@ -24,7 +24,6 @@ servings: 48 bites
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 Baked Brie Bites are the ultimate easy holiday appetizer and will wow your guests! Made with puff pastry, Brie cheese, cranberry or raspberry, and pecans.
 

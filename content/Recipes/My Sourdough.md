@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
 servings: two 900g loaves (1,800g total dough weight)
 ---
 ## Ingredients

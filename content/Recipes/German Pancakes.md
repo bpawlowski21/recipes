@@ -22,7 +22,6 @@ servings: 5
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "The absolute best German Pancakes recipe! Only six simple ingredients and five minutes to prepare, this easy breakfast is a sure family favorite!"
 

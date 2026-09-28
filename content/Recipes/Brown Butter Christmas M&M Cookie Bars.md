@@ -21,7 +21,6 @@ servings: 22 cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Slightly crisp on the edges with soft and gooey centers. Christmas cookie perfection and super easy too!
 

@@ -26,7 +26,6 @@ servings: 4 people
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - "reference"
 ---
 "It's time to level up your ramen to restaurant-quality levels! This peanut butter ramen recipe with smoky shredded tofu is absolutely delicious and will have everyone talking about wanting more!"
 

@@ -24,7 +24,6 @@ servings: 12 treats
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta") — despite the folder, contains Nutella (which has milk). "If you love dates as much as I do, these will become your newest favorite delicious and healthy snack!"
 

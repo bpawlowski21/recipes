@@ -22,7 +22,6 @@ servings: 42 cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
   - incomplete
 ---
 ![[Espresso-Chocolate Shortbread Cookies (handwritten).pdf]]

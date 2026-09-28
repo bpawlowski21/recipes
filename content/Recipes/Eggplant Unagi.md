@@ -22,7 +22,6 @@ servings: 3 to 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault ("Veganuary Nr. 21"). "Inspired by the Japanese unagi (eel), this eggplant has it all... full of flavor, perfect texture, you'll love it!" Prep time: 25 minutes.
 

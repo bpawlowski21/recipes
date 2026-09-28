@@ -24,7 +24,6 @@ servings: 8 to 9 large cups
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot.
 

@@ -25,7 +25,6 @@ servings: 10
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Moist and perfectly delicious Chocolate Peppermint Bundt Cake with cream cheese frosting is an easy Christmas dessert recipe that is sure to be a crowd pleaser!"
 

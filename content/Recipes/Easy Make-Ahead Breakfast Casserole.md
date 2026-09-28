@@ -26,7 +26,6 @@ servings: 12
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Makes excellent leftovers for breakfast, lunch, and dinner during the week!
 

@@ -24,7 +24,6 @@ servings:
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - "reference"
 ---
 Saved from a comment on a social media post — the recipe was posted as a text comment rather than in the original post/video itself.
 

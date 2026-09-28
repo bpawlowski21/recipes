@@ -26,7 +26,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. "When cherry season happens this pretty is always in my fridge. It can really be made with any grain, but I love it with quinoa."
 

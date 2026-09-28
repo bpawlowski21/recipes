@@ -21,7 +21,6 @@ servings: 3 1/2 cups
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Vegan Mushroom Make-Ahead Gravy (handwritten).pdf]]
 

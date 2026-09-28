@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. A second, differently-marinated tempeh bacon recipe from the one saved as [[Tempeh Bacon Sandwich]] — "even better the day after."
 

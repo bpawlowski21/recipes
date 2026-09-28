@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
   - "incomplete"
 ---
 **Not yet transcribed** — video-only Instagram reel, no ingredients or directions text available.

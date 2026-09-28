@@ -22,7 +22,6 @@ servings: 12 giant cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Copycat Levain Bakery Chocolate Chip Cookies (handwritten).pdf]]
 

@@ -21,7 +21,6 @@ servings: 16 rolls
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "These feather-light, buttery rolls were a 19th-century staple of the Parker House, a famous Boston hotel — the same hotel that in 1855 created the first Boston Cream Pie. So what makes a Parker House roll special? Butter. A buttery fold during the shaping process (and butter brushed on after they're baked) give them over-the-top flavor. An egg, milk, and a fair amount of butter in the dough give them fine and tender texture." A different recipe from the other saved [[Salted Honey Butter Parker House Rolls]] (Half Baked Harvest).
 

@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta") — despite the folder, this is not actually vegan (contains cheese and honey). An Instagram Reel.
 

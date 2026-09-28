@@ -24,7 +24,6 @@ servings: 18 bars
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 Tawnie Graham of Kroll's Korner. "Cranberry Bliss Bars are a nostalgic and festive holiday treat! They feature a soft and chewy blondie base, generously studded with sweet white chocolate chips and tart dried cranberries and a hint of fresh orange zest brightens each bite. Topped with a smooth and creamy layer of cream cheese frosting and garnished with a sprinkling of chopped dried cranberries, and a delicate drizzle of melted white chocolate. They are a true holiday indulgence!"
 

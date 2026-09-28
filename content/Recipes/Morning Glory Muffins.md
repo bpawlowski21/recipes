@@ -25,7 +25,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
 servings: 1 dozen
 ---
 ## Ingredients

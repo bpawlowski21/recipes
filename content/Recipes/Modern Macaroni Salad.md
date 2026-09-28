@@ -25,7 +25,6 @@ servings: Serves 6 to 8
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Modern Macaroni Salad (handwritten).pdf]]
 

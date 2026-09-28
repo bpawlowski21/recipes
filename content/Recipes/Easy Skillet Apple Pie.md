@@ -22,7 +22,6 @@ servings: 8-10
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 ![[Easy Skillet Apple Pie (handwritten).pdf]]
 

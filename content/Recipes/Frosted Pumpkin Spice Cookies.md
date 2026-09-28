@@ -22,7 +22,6 @@ servings: about 3 dozen large cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ## Ingredients
 

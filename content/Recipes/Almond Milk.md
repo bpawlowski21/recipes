@@ -22,7 +22,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "This is the perfect way to use your almonds and make your own plant-based milk — but don't throw away the pulp, as it's such a versatile ingredient to work with." The leftover pulp is used in [[Amaretti Cookies from Almond Pulp]], saved from the same post.
 

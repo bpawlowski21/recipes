@@ -21,7 +21,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 servings: about 2 cups (16 servings of 2 tablespoons each)
 ---
 ## Ingredients

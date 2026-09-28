@@ -25,7 +25,6 @@ servings: 2
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta") — despite the folder, this recipe includes shrimp (swap for tofu to keep it vegan). "This Thai inspired chopped salad had been on repeat over here! I love this because it's fresh, easy and so delicious. Feel free to use whatever veggies you have on hand too — super versatile and forgiving." Best served cold. The sauce makes more than needed, so start small.
 

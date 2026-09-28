@@ -22,7 +22,6 @@ servings: 10
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Sweet quick breads are so easy to make and this one delivers on that delicious Sunday morning aroma and is packed with wonderful cinnamon flavor. The top layer of cinnamon sugar gets a slight crunch in the oven for an extra treat.
 

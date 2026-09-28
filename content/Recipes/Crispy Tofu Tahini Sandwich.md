@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. "This sandwich is going to be your new go-to for breakfast, lunch and dinner! It's packed with protein, veggies and soooo much flavor."
 

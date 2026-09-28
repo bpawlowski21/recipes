@@ -22,7 +22,6 @@ servings: 50 small cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Santa called, he wants Egg Nog Meltaway Cookies this Christmas. And I don't blame him! These pillowy, melt-in-your-mouth Christmas Cookies are flavored with Egg Nog, Vanilla, Cinnamon + Nutmeg and seriously taste like Christmas.
 

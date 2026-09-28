@@ -25,7 +25,6 @@ servings: 7 to 8 cups
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ## Ingredients
 

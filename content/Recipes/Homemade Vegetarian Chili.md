@@ -26,7 +26,6 @@ servings: 4-6
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 ![[Homemade Vegetarian Chili (handwritten).pdf]]
 

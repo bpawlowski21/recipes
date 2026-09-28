@@ -22,7 +22,6 @@ servings: 8-10
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Level: Easy. Total: 1 hr 15 min (includes cooling time). Active: 35 min.
 

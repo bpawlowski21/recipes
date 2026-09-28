@@ -23,7 +23,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from an old (circa 2010) Allrecipes.com page, "the quintessential Thai soup." 5,738 people had saved it and it had 128 reviews at the time it was saved.
 

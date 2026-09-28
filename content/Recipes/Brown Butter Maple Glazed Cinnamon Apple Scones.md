@@ -23,7 +23,6 @@ servings: 8 scones
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Half Baked Harvest. "Brown butter?, toasty, golden, warm, buttery, perfection. Maple, the perfect pairing with crisp fall apples. Cinnamon, can you really do a baked apple treat without cinnamon? my thinking is no."
 

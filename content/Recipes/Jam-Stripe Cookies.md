@@ -21,7 +21,6 @@ servings: Makes about 28
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Uses half a batch of the vault's "All-in-One Cookie Dough" note.
 

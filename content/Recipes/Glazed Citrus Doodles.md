@@ -23,7 +23,6 @@ servings: Makes 36
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 We replaced the cinnamon in a snickerdoodle with lemon and orange. The result is a tangy, chewy cookie with crisp edges.
 

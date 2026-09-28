@@ -21,7 +21,6 @@ servings: 1 quart
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 5 from 11 reviews. "If you want to make a chopped salad, follow the guidelines on the author's charred broccoli chopped salad post."
 

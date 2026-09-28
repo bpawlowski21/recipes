@@ -24,7 +24,6 @@ servings: 4 wraps
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. "A simple and convenient vegan recipe packed with protein and flavor!"
 

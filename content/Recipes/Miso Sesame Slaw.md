@@ -24,7 +24,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "Rated 3.6 stars by 7 users." "One of my favorite slaws I've made recently. It's so simple. All you need is a cabbage and a handful of pantry ingredients. Great in a wrap, to add to a taco, for a refreshing crunch on a sandwich or bowl, or just as a simple side."
 

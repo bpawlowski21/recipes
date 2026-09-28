@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "This meat-free version will surprise you. It's been soooo popular that I just had to add it as episode 5 of my 'Easy Dinners You'll Actually Make' series!"
 

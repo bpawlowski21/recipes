@@ -24,7 +24,6 @@ servings: Serves 8 to 10
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Noodle Kugel (handwritten).pdf]]
 

@@ -21,7 +21,6 @@ servings: Makes about 6 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Angelettis (handwritten).pdf]]
 

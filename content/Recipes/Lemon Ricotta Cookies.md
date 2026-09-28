@@ -23,7 +23,6 @@ servings: 36 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This is the only Lemon Ricotta Cookie recipe you need! Tested and perfected, these soft Italian cookies have the perfect amount of lemony sweetness."
 

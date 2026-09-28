@@ -24,7 +24,6 @@ servings: 12 muffins
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "These are easily the BEST chocolate chip muffins – baked with a tall muffin top, moist texture, and crunchy crust."
 

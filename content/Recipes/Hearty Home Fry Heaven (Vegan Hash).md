@@ -25,7 +25,6 @@ servings: 5
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. "Your fave side home fries are elevated to full meal status by adding tofu and chickpeas." Ready in 1 hour.
 

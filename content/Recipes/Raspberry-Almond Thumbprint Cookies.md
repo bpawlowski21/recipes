@@ -22,7 +22,6 @@ servings: 3½ dozen
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 These crisp, buttery thumbprints have a hint of almond. The raspberry jam and almond glaze drizzle combo is so pretty and tastes wonderful. — Lana White, Roy, WA
 

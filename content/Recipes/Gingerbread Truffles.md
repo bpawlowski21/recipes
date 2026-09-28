@@ -23,7 +23,6 @@ servings: 36 truffles
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Easy 3-ingredient gingerbread truffles - no baking required. Cuisine: American.
 

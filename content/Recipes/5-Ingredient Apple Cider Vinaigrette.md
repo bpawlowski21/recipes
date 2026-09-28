@@ -22,7 +22,6 @@ servings: 1 cup
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Total time: 5 minutes · Diet: Vegan
 

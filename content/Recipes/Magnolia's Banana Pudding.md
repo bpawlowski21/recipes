@@ -23,7 +23,6 @@ servings:
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Magnolia's Banana Pudding (handwritten).pdf]]
 

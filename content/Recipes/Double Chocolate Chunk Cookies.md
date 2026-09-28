@@ -22,7 +22,6 @@ servings: about 3 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 These rich cookies should seem a bit soft when you take them out of the oven. They firm up as they cool, so be careful not to overbake them.
 

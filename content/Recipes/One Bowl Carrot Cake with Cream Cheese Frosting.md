@@ -25,7 +25,6 @@ servings: 16 slices
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This One-Bowl Carrot Cake is moist, flavorful, and easy to make! Packed with fresh carrots, warm spices, and a rich, tender crumb, it's perfect with creamy cream cheese frosting. A simple, no-fuss recipe for any occasion!"
 

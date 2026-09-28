@@ -24,7 +24,6 @@ servings: Makes about 24
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Meyer Lemon-Brown Butter Cookies (handwritten).pdf]]
 

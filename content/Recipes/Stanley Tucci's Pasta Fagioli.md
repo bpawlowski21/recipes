@@ -23,7 +23,6 @@ servings: 8
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Adapted from Stanley Tucci's Pasta Fagioli recipe. Small handwritten notes on the card: "all recipes" (source) and "RAO'S" (recommended marinara brand, next to the marinara sauce ingredient).
 

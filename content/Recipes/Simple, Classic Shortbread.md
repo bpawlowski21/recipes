@@ -21,7 +21,6 @@ servings: 18 pieces
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Total Time: 45 minutes. Adapted from a rosemary shortbread recipe via Melissa Clark.
 

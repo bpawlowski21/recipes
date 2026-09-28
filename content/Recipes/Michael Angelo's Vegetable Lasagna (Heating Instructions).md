@@ -21,7 +21,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes as "Cooking Instructions for Michael Angelo's Vegetable Lasagna." This is heating instructions for a store-bought frozen entrée, not a from-scratch recipe — kept as-is since it was deliberately saved.
 

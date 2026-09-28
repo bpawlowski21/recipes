@@ -20,7 +20,6 @@ servings: ¾ cup
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 5 from 3 reviews. "This is my Great Aunt Phyllis's Greek salad dressing recipe. My extended family has used it for years to dress — wait for it — Greek salad, but not a traditional horiatiki salad, which is a non-lettuce salad composed of largely chopped peppers, cucumbers, tomatoes, and feta, all dressed with a light drizzle of olive oil and vinegar. This Greek salad includes mustard and is a thicker, emulsified dressing."
 

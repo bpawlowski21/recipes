@@ -22,7 +22,6 @@ servings: 8 bagels
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "Every week in 2024, you'll find a new bagel recipe right here. Today, we're walking through my ultra delectable everything bagel recipe - you're sure to love it!"
 

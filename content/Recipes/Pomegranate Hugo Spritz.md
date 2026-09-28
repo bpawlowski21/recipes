@@ -25,7 +25,6 @@ servings: 1
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Enjoy the Pomegranate Holiday Hugo Spritz, a refreshing twist on the classic drink perfect for your holiday celebrations."
 

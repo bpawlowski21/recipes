@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 servings: 1 loaf
 ---
 I learned this recipe from my friend, Holly, who calls it Jennifer's Challah. The recipe doubles well. Bread keeps well in a ziplock bag on the counter for several days, and it freezes well, too.

@@ -23,7 +23,6 @@ servings: 6
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 Total time: 52 minutes
 

@@ -21,7 +21,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Cinnamon Rolls (Ambitious Kitchen) (handwritten).pdf]]
 

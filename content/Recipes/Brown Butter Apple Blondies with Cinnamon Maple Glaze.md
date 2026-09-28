@@ -22,7 +22,6 @@ servings: 24 bars
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Half Baked Harvest. "If there was ever a recipe that screams fall, it's these easy, soft, and gooey blondies!"
 

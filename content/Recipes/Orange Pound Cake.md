@@ -23,7 +23,6 @@ servings: 30 slices
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This sweet bread is as rich and velvety as a pound cake. Made with fresh orange zest and juice, it's bursting with flavor. This Orange Pound Cake is the ultimate citrus treat!"
 

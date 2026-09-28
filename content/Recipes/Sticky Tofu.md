@@ -22,7 +22,6 @@ servings: 2
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Crispy sticky tofu is coated in a flavorful salty, sweet and sticky Asian marinade and delicious served with basmati rice and veggies."
 

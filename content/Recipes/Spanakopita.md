@@ -24,7 +24,6 @@ servings: 12
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Spanakopita is a delicious Greek pie full of salty, savory flavors and wrapped in crispy, golden phyllo sheets. It makes for the perfect side dish, appetizer, or main meal!"
 

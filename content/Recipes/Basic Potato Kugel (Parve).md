@@ -23,7 +23,6 @@ servings: 12-14
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Basic Potato Kugel (Parve) (handwritten).pdf]]
 

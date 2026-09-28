@@ -21,7 +21,6 @@ servings: Makes about 30, serves 30
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[All-in-One Cookie Dough (handwritten).pdf]]
 

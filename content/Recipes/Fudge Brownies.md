@@ -23,7 +23,6 @@ servings: 30
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Fudge Brownies (handwritten).pdf]]
 

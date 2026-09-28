@@ -22,7 +22,6 @@ created: 2026-07-30
 last: 2026-07-30
 tags:
   - "technique"
-  - "reference"
 ---
 Total time: 1 hour 25 minutes.
 

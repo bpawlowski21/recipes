@@ -22,7 +22,6 @@ servings: 10 slices
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "4.79 from 14 votes." "Golden brown and crispy on the outside with a soft and airy interior - this bread is what carb dreams are made of! When you break through the crust, you encounter a garlicky, slightly chewy but light and pillowy crumb that's going to have you devouring the whole loaf."
 

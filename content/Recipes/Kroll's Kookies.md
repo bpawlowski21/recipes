@@ -22,7 +22,6 @@ servings: 6 large cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Tawnie Graham of Kroll's Korner. "Giant Chocolate Chip Cookies are thick, fluffy, crispy golden brown on the outside and soft, gooey and chewy on the side. It's the perfect giant cookie."
 

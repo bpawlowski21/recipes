@@ -23,7 +23,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot (intro not fully captured, but describes shaved/marinated tofu with roasted-garlic mayo on a toasted baguette — "the toasted baguette, pickled veggies, and fresh fixings take this sammie over the top").
 

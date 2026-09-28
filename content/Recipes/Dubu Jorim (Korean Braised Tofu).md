@@ -22,7 +22,6 @@ servings: 3 to 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post ("Veganuary 15/25 — 25 recipes in under 25 mins: Dubu Jorim (두부조림)"). "This is a very very simple yet delicious tofu recipe from Korea. I recommend serving it with rice and garlic eggplant." Prep time: 25 minutes.
 

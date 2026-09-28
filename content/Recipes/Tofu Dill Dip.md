@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "If you don't like silken tofu, then trust me, this recipe will convert you! This creamy tofu and dill dip is smooth, fluffy, high in protein and much healthier than store bought dips." Vegan, refined sugar-free, gluten-free, and oil-free.
 

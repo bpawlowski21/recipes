@@ -23,7 +23,6 @@ servings: 32 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Once Upon a Chef, with Jenn Segal. "With a hint of almond, chocolate chips, and a satisfying crunch, my Grandma Annie's mandel bread is pure comfort and tradition in every bite!"
 

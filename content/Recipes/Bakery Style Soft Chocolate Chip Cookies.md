@@ -22,7 +22,6 @@ servings: 22
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 "Bakery style soft chocolate chip cookies, the kind you eat warm straight from the oven. They bake up with a classic wrinkly top, just the right thickness, and plenty of melty chocolate, lifted with a hint of almond and orange. The gooey centers will firm as they cool."
 

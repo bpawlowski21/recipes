@@ -25,7 +25,6 @@ servings: 8
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Cauliflower Gratin (Real Simple) (handwritten).pdf]]
 

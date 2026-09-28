@@ -26,7 +26,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "Rated 3.7 stars by 384 users." Category: Recipes. Since posting on TikTok in September 2021, more than 26 million people have viewed the video; landed the author on the TODAY Show and became the #6 top searched recipe of 2022. Encourages riffing on the recipe with the veggies and flavors you love — add avocado for creaminess or jalapeño for heat, swap out the herbs to change the flavor profile.
 

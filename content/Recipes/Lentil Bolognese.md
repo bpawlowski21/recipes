@@ -25,7 +25,6 @@ servings: 6
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - "reference"
 ---
 "This 10-ingredient Lentil Bolognese is what comfort food dreams are made of. The meaty, umami, and flavor-rich sauce simmers together wholesome, pantry-staple ingredients in one pot in less than 1 hour. An easy, yet gourmet Italian-inspired sauce for pasta night!"
 

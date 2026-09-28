@@ -25,7 +25,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "Rated 3.5 stars by 54 users." Category: Salads. "This is the perfect slaw—it's crunchy with lots of refreshing veggies, a crunchy cashew topping, and a creamy dressing." Cashews are the star, smothered with honey and seeds for the topping (that doubles as a great snack), and used again in a creamy honey ginger dressing.
 

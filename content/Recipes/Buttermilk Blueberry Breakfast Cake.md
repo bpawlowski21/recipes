@@ -24,7 +24,6 @@ servings: 12 to 16 pieces
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 The base recipe for [[Cranberry & Orange Buttermilk Breakfast Cake]], already in the vault (that one swaps cranberries for blueberries and orange zest for lemon). "This cake is a long-time family favorite. My mother made it for my siblings and me when we were young, and every time I pull it out of the oven, cliché as it sounds, I am reminded of summer mornings in my childhood kitchen. It's simple, adaptable, and make aheadable." One of the two most popular recipes on the author's site, the other being My Mother's Peasant Bread (also in this vault), which led to her cookbook *Bread Toast Crumbs*.
 

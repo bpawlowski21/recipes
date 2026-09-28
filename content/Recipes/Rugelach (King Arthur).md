@@ -25,7 +25,6 @@ servings: 36 rugelach
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Rugelach (King Arthur) (handwritten).pdf]]
 

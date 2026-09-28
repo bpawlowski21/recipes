@@ -21,7 +21,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Soft, chewy, sweet sugar cookie bars are all the yum with a fraction of the work! No need to roll and shape these - just bake, cut and enjoy."
 

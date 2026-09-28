@@ -25,7 +25,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "Rated 5.0 stars by 1 users." Category: Savory Recipes. "Features a few of the author's favorite ingredients: lentils, red bell pepper, arugula, and miso vinaigrette. Comes together quickly for a hearty side dish and can be eaten slightly warm (from the lentils) or cold as leftovers. The salty Kalamata olives and dried oregano give this a Greek-salad vibe—as does the longevity you'll get from the lentils."
 

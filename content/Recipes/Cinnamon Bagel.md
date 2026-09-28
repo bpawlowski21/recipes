@@ -22,7 +22,6 @@ servings: 8 bagels
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "The Panera Bread copycat Cinnamon Crunch Bagel recipe is HERE! And it's even better than the original (but I'll let you be the judge of that)."
 

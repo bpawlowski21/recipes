@@ -24,7 +24,6 @@ servings: 8
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Our viral berry cake got a Christmas makeover! Orange cranberry cake mixes up in one bowl and is ready for the oven in 10 minutes."
 

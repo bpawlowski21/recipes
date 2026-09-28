@@ -21,7 +21,6 @@ servings: Makes 24 cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Traditional black and white cookies, spotted in bakeries and cafes all over New York City and Long Island. Soft, cake-like vanilla cookies, topped with equal parts vanilla and chocolate frosting.
 

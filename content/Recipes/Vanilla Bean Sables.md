@@ -21,7 +21,6 @@ servings: 36
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Total Time: 3 hours 32 minutes. From Dorie Greenspan's *Baking Chez Moi*.
 

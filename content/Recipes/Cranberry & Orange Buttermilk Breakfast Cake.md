@@ -24,7 +24,6 @@ servings: 8 to 10
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 Essentially the author's [[Buttermilk Blueberry Breakfast Cake]] recipe but with cranberries swapped for the blueberries and orange zest for lemon zest, with the sugar increased slightly since cranberries are tart. If you don't like cranberries, frozen blueberries work too. Batter can be prepared the night before — store it in Tupperware rather than the baking pan, then transfer to a greased pan in the morning.
 

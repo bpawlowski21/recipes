@@ -22,7 +22,6 @@ servings: 24 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "My soft and chewy brown butter toffee cookies are packed with toffee pieces and flavored with vanilla, brown butter, and sprinkling of sea salt. Never browned butter before? I'll show you how!" A different recipe from the other saved [[Brown Butter Toffee Chocolate Chip Cookies]] (Sofi | Broma Bakery).
 

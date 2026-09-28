@@ -22,7 +22,6 @@ servings: 4 sandwiches
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot — the intro/title wasn't captured, only the recipe itself, which was presented as a stop-motion animation post. A different, distinct recipe from the other saved [[Crispy Tofu Sandwich]] (which is cornstarch-battered and pan-fried rather than baked).
 

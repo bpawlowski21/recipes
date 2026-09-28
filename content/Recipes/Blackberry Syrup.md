@@ -21,7 +21,6 @@ servings: 16
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 This blackberry syrup recipe adds that burst of summer flavor to every dish you serve it with! From topping pancakes, yogurt, or cake to stirring into drinks, blackberry syrup is a must have recipe!
 

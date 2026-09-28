@@ -21,7 +21,6 @@ servings: about 2 cups
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes as "Bobby Flay's Mesa Barbecue Sauce," photographed from his Mesa Grill cookbook. "At Mesa Grill, this barbecue sauce is used as is, or as a base for some more complex sauces. The ancho and pasilla chile powders add Southwestern flavors to the traditional barbecue-sauce ingredients: tomatoes, onions, garlic, sweet molasses, and brown sugar."
 

@@ -24,7 +24,6 @@ servings: 10
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Spinach and Mushroom Herb Stuffing (handwritten).pdf]]
 

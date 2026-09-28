@@ -26,7 +26,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("Curry sweet potatoes"), photographed from a printed NYT Cooking recipe page.
 

@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 servings: 16 2-inch squares or 32 1x2-inch small bars
 ---
 ## Ingredients

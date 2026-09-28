@@ -24,7 +24,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 servings: 4 as an appetizer or 2 as a light meal
 ---
 ## Ingredients

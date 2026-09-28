@@ -22,7 +22,6 @@ servings: 12 large scones
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "'What are you making? It smells like a fall day...' That was the reaction the first time we baked these moist, flavorful scones. Fresh diced apple and cinnamon chips complement each other beautifully, flavor-wise; and a topping of crunchy, cinnamon-enhanced coarse sugar is the perfect foil to the scones' tender texture."
 

@@ -22,7 +22,6 @@ servings: 8 generous servings
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "These crispy Italian breadcrumbs, known as 'pangrattato', are a traditional topping for pasta, vegetables and other dishes from southern Italy. Flavored with garlic, fresh herbs and fried in extra virgin olive oil, this is a condiment that's hard to beat!"
 

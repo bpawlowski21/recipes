@@ -23,7 +23,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), a zero-waste follow-on to [[Almond Milk]] using the leftover almond pulp. 30,445 likes on the original post.
 

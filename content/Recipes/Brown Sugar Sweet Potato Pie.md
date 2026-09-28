@@ -22,7 +22,6 @@ servings: 8-10
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Yield: 8-10 servings · Prep Time: 1 hour 30 minutes · Total Time: 6 hours (includes dough chilling and pie cooling)
 

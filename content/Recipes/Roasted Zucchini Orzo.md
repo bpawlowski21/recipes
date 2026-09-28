@@ -25,7 +25,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Roasted Zucchini Orzo (with Chickpeas and Feta)." Recipe by Nico @theplantbasedschool.com.
 

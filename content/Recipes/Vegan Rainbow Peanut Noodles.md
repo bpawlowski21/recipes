@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. A different, veggie-loaded peanut noodle recipe from the other saved [[Peanut Sesame Cucumber Noodle Salad]] and [[Spicy Peanut Sesame Noodles with Edamame]], also by healthygirlkitchen.
 

@@ -21,7 +21,6 @@ servings: 9 servings
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Hershey's Chocolate Fudge Pudding Cake (handwritten).pdf]]
 

@@ -23,7 +23,6 @@ servings: 8 slices
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Prep Time: 25 minutes · Cook Time: 45 minutes · Total Time: 1 hour 10 minutes.
 

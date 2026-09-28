@@ -25,7 +25,6 @@ servings: 8
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault. "This 'no beef wellington' is definitely the perfect vegan Christmas dinner along with some roast potatoes and veggies. The hearty and meaty tofu 'beef' covered in crispy vegan puff pastry... just pour over some vegan gravy and it's ALL GOOD!" 285 cal / 7P / 22C / 18F per serving.
 

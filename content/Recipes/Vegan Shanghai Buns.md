@@ -23,7 +23,6 @@ servings: 28 dumplings, 65 cal/2P/8C/1F each
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault. "These dumplings, also known as Shanghai buns, are fluffy dumplings with a crispy fried bottom and a juicy filling." Inspired by @omnivorescookbook's pork version, made with mushrooms instead.
 

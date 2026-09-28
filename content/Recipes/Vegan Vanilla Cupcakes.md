@@ -21,7 +21,6 @@ servings: 12 cupcakes
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Vegan Vanilla Cupcakes (handwritten).pdf]]
 

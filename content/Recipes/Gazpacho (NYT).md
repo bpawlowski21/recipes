@@ -22,7 +22,6 @@ servings: 8-12
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 More of a drink than a soup, served in frosted glasses or chilled tumblers, gazpacho is perfect when it is too hot to eat but you need cold, salt and lunch all at the same time. Gazpacho is everywhere in Seville, Spain, where this recipe comes from, but it's not the watered-down salsa or grainy vegetable purée often served in the United States. This version has no bread and is a creamy orange-pink rather than a lipstick red — a large quantity of olive oil is required, rather than take-it-or-leave-it gazpacho. The emulsion of red tomato juice, palest green cucumber juice and golden olive oil produces the right color and a smooth, almost fluffy texture.
 

@@ -24,7 +24,6 @@ servings: 24 balls
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Oreo Balls are a classic fudgy and chocolaty treat made with just three ingredients and a few simple steps. Make these cookie balls your own by using milk chocolate or dark chocolate melting wafers, decorating them with festive sprinkles, or drizzling with melted chocolate!"
 

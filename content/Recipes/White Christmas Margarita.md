@@ -23,7 +23,6 @@ servings: 1
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Prep Time: 4 minutes
 

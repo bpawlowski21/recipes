@@ -22,7 +22,6 @@ servings: 2 dozen (1 cookie per serving)
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Oatmeal Toffee Cookies (handwritten).pdf]]
 

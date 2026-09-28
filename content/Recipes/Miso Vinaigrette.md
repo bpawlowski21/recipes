@@ -22,7 +22,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "Rated 3.4 stars by 53 users." Category: Savory Recipes. "One of my most popular, most delicious homemade dressings. The miso adds incredible umami, complemented by bright lemon juice (yes, it must be freshly squeezed) and cheesy, creamy nutritional yeast. Mostly pantry staples, so it's easy to whisk together for a weeknight salad."
 

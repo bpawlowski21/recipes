@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post (comments section, 2 slides). "Simple, satisfying and super delicious! Perfect with a drizzle of good olive oil and crusty bread to dunk with."
 

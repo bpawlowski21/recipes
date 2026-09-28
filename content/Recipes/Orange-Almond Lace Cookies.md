@@ -22,7 +22,6 @@ servings: About 24
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Orange-Almond Lace Cookies (handwritten).pdf]]
 

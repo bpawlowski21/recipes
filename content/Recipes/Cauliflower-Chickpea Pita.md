@@ -26,7 +26,6 @@ servings: 3
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault. "I'm not lying when I tell you that this is going to be one of your new favorites." Prep time: 30 minutes.
 

@@ -23,7 +23,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This pasta aglio e olio recipe is the ultimate weeknight meal! It comes together in 20 minutes, it uses simple ingredients, and it's absolutely delicious."
 

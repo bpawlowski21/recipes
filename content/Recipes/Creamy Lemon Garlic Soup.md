@@ -23,7 +23,6 @@ servings: 4 to 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "Reposting this one because it's my most saved recipe this year and we can not forget. Healthy comfort food at its finest. How come lemon makes everything great?"
 

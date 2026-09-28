@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post (intro/title slide not captured). Macros per serve (soup + tempeh): 315 cal, 24P, 39C, 5F.
 

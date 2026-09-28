@@ -22,7 +22,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post (2 slides). The post frames it as "homage to my cute grandmother." Full details/how-tos referenced the author's blog (linked in their bio, not captured here).
 

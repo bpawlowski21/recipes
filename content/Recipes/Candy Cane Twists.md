@@ -21,7 +21,6 @@ servings: 4 1/2 dozen cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Candy Cane Twists (handwritten).pdf]]
 

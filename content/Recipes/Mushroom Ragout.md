@@ -22,7 +22,6 @@ servings: 6-8
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 ![[Mushroom Ragout (handwritten).pdf]]
 

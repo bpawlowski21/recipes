@@ -25,7 +25,6 @@ servings: 1
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 A thick, creamy and flavorful smoothie bowl packed with fruits, veggies, antioxidants and plant-powered protein for a filling and delicious breakfast!
 

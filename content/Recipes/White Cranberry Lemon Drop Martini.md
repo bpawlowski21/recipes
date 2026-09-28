@@ -24,7 +24,6 @@ servings: 1
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Mix up a seasonal treat with a White Cranberry Lemon Drop Martini. Perfect for holiday festivities and family gatherings."
 

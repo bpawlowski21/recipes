@@ -23,7 +23,6 @@ servings: 3 to 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault. "An Irish Classic, pure comfort food but made vegan! I used lentils and oh my... it was so delicious." Prep time: 50 minutes.
 

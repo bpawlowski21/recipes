@@ -21,7 +21,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "Rated 5.0 stars by 1 users." As soon as the author made a companion granola recipe, she thought "what if I used the same delicious mix with Rice Krispies instead?" And this maple tahini crisp was born. Light, packed with flavor, and perfect for snacking on.
 

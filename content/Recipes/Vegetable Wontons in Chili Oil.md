@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. **Incomplete** — only the method slide was saved; the ingredient quantities (tofu, spinach, leek, shiitake mushroom, ginger, spring onion, wonton wrappers, and the dipping sauce ingredients) weren't captured, only referenced in the method below.
 

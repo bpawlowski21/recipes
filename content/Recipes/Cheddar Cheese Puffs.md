@@ -22,7 +22,6 @@ servings: 36 puffs
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Time: 45 minutes. Adapted from "Party Appetizers," by Tori Ritchie (Chronicle Books, 2004).
 

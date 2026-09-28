@@ -22,7 +22,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
 servings: 12 small tacos, feeds about 4
 ---
 ## Ingredients

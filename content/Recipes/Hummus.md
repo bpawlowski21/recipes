@@ -25,7 +25,6 @@ servings: Makes 8 or more servings
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Hummus (handwritten).pdf]]
 

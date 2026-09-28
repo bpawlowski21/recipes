@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
   - "incomplete"
 ---
 **Not yet transcribed** — not a standalone recipe (braiding/shaping technique tutorial that assumes the "Challah Bread" dough recipe is already made).

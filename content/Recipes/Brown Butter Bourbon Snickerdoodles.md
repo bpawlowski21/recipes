@@ -20,7 +20,6 @@ yellow_book: true
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
   - "incomplete"
 ---
 ![[Brown Butter Bourbon Snickerdoodles (handwritten).pdf]]

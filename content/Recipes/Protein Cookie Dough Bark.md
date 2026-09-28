@@ -23,7 +23,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot. "This cookie dough bark is vegan, requires no baking, & takes like 5 mins to make!"
 

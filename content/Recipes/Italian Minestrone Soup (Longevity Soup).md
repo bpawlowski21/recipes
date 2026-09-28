@@ -24,7 +24,6 @@ servings: 5
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "5 from 17 votes." "This Italian Minestrone Soup is the definition of comfort food. It's a one pot soup packed with nutrients, veggies and legumes, not to mention super delicious!" Calories: 376kcal.
 

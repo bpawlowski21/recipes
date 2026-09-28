@@ -25,7 +25,6 @@ servings: 4 to 5
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "This is the perfect dinner on a sweltering night because it's a no cook recipe that's hydrating and delicious." Ready in 10 minutes.
 

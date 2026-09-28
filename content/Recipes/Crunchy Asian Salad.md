@@ -26,7 +26,6 @@ servings: 12 servings, 1 cup each
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Crunchy Asian Salad (handwritten).pdf]]
 

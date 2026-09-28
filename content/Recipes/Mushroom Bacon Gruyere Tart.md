@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta") — despite the folder, this recipe is not vegan (eggs, cheese, bacon, Greek yogurt). Can be made vegetarian by leaving off the bacon, and any cheese can be substituted.
 

@@ -24,7 +24,6 @@ servings: 24 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Half Baked Harvest. "Classic cookies made better with the addition of apples, spices, and melty chocolate - fall baked up in a cookie!" Key Ingredient: cardamom, chocolate chips, nutmeg, oats.
 

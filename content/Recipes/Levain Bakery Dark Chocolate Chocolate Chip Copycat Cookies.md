@@ -22,7 +22,6 @@ servings: 8-12 cookies
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "The ORIGINAL Levain Bakery Dark Chocolate Chocolate Chip Copycat Cookies. These have a 5 star rating for a reason!" "4.96 from 102 votes." Course: Dessert.
 

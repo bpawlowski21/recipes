@@ -22,7 +22,6 @@ servings: 50 cookies
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 Total Time: 1 hour 35 minutes.
 

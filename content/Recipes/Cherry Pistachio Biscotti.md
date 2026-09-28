@@ -21,7 +21,6 @@ yellow_book: true
 created: 2026-07-30
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Cherry Pistachio Biscotti (handwritten).pdf]]
 

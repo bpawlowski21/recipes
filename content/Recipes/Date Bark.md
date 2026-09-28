@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "The perfect after dinner treat and sort of guilt free. Can be made your way using your favorite nut butters and toppings."
 

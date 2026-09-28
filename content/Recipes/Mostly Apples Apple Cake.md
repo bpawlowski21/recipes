@@ -23,7 +23,6 @@ servings: one 8" or 9" cake
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "In this unabashedly apple-forward apple cake, there are so many apple slices and so little batter, you'll wonder how (and if) it will hold together. But never fear: as the batter rises in the oven, it knits those slices together to create a tender cake that's almost creamy and custardy due to the abundance of fruit." Thanks to Sarah Carey, who developed this recipe, and to Dorie Greenspan, whose Marie-Hélène's Apple Cake inspired it.
 

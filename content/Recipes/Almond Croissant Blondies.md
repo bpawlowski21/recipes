@@ -23,7 +23,6 @@ servings: 16 blondies
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - reference
 ---
 "These Almond Croissant Blondies combine a soft white chocolate blondie base with a buttery almond frangipane topping and sliced almonds. Inspired by the flavors of an almond croissant, these rich bars bake in two stages for a chewy blondie bottom and a golden almond layer on top."
 

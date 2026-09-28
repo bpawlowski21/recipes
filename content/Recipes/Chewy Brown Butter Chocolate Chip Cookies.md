@@ -22,7 +22,6 @@ servings: 14 cookies
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - reference
 ---
 ![[Chewy Brown Butter Chocolate Chip Cookies (handwritten).pdf]]
 

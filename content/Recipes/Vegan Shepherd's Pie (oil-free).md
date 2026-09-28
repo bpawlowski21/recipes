@@ -26,7 +26,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Hearty, filling, delicious vegan shepherd's pie, great for the holidays or as a main course. It is oil-free, gluten-free, 100% plant-based, soy-free, and has no added sugar.
 

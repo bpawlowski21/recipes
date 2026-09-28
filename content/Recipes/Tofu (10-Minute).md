@@ -22,7 +22,6 @@ servings: 2
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault. "This is my go to recipe for tofu and it's pretty much foolproof! Just make sure you use firm tofu and not silken or soft tofu — you can also bake it." Prep time: 10 minutes.
 

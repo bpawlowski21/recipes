@@ -25,7 +25,6 @@ servings: 4
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "This Thai Red Curry with Tofu is packed with bold flavours and fresh veggies!" Course: Dinner, Lunch · Calories: 383.
 

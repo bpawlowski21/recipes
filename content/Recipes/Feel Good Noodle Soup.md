@@ -25,7 +25,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "Sometimes we just need a little hug in a bowl and this soup can you that!" Prep time: 35 minutes.
 

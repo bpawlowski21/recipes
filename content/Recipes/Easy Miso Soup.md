@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 "A super simple, hearty miso soup that can be made from pantry ingredients. In our experience, it also makes a great cold remedy!" Calories: 131kcal. "5 from 15 votes."
 

@@ -22,7 +22,6 @@ servings: 8
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "5 from 9 votes." Course: Entrees · Cuisine: American, Mexican. Keyword: vegan taco bell, vegan tacos.
 

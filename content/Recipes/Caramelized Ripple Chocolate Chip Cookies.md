@@ -22,7 +22,6 @@ servings: 15 cookies
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - reference
 ---
 ![[Caramelized Ripple Chocolate Chip Cookies (handwritten).pdf]]
 

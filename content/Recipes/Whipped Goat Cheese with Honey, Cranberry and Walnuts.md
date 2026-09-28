@@ -25,7 +25,6 @@ servings: 12
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Indulge in this creamy, sweet & savory whipped goat cheese dip! Topped with a warm honey, cranberry, and walnut crunch."
 

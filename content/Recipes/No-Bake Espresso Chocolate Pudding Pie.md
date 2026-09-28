@@ -24,7 +24,6 @@ servings: 1 9" pie
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Prep Time: 40 mins · Chill Time: 6 hrs.
 

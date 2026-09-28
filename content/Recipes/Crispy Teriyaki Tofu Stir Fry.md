@@ -23,7 +23,6 @@ servings: 3
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "You will love this quick teriyaki tofu with crispy tofu pieces, mouthwatering homemade teriyaki sauce, fresh crisp vegetables, and warm, sticky rice."
 

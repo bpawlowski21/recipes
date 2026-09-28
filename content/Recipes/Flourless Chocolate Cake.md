@@ -22,7 +22,6 @@ servings: one 8" cake
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This flourless cake, featuring both chocolate and cocoa, is rich, rich, RICH! A thick icing of chocolate ganache glaze takes it over the top. Depending on how you observe Passover, this cake can make a great addition to your Seder since it contains neither flour nor leavening; and of course, it's also ideal for those looking to avoid gluten."
 

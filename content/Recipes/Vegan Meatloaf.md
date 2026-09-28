@@ -23,7 +23,6 @@ servings: 8
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This is the best vegan meatloaf recipe, rated 5 stars by dozens! It's ultra-moist and flavorful and takes just 15 minutes to prep. Serve it as a show-stopping Thanksgiving main with vegan mashed potatoes and green bean casserole."
 

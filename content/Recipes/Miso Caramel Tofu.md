@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post ("Tantalising Tofu S4E4"). "This tofu is sticky, sweet, salty and spicy... literally what more do you want?"
 

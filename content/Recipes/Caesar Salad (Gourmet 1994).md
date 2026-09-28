@@ -24,7 +24,6 @@ servings: Serves 6
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Caesar Salad (Gourmet 1994) (handwritten).pdf]]
 

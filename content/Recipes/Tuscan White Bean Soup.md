@@ -25,7 +25,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Made with creamy white beans and Mediterranean flavors, this Tuscan white bean soup recipe is a quick dinner recipe perfect for weeknights! Loaded with vegetables and parmesan cheese, we're confident you'll be adding this to your weekly rotation. Ready in under 30 minutes!"
 

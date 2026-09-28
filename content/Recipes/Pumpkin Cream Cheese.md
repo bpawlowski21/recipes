@@ -22,7 +22,6 @@ servings: about 1 1/2 cups
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Pumpkin Cream Cheese (handwritten).pdf]]
 

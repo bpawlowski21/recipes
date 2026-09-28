@@ -22,7 +22,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 servings: 12 blintzes (8-inch crêpe, 3 tablespoons filling each)
 ---
 ## Ingredients

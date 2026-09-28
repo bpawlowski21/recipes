@@ -27,7 +27,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "Rated 5.0 stars by 1 users." Most granola recipes use egg whites as a binder, but this swaps egg whites for tahini — it adds extra flavor and creates an incredible granola with big clusters perfect to snack on. Sesame seeds are added since tahini is an allergen, so people know what to expect. Use whatever nuts & seeds you have and love — the recipe is just a guide for the proper ratio.
 

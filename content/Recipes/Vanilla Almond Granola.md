@@ -24,7 +24,6 @@ servings: 2-3 cups
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Vanilla Almond Granola (handwritten).pdf]]
 

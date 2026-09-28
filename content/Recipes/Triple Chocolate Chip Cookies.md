@@ -22,7 +22,6 @@ servings: 14-16 large cookies
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "These bakery-style cookies are rich, chewy, and loaded with layers of chocolate flavor. Made with nutty browned butter and a blend of dark, semi-sweet, and milk chocolate chips, they have crisp edges, soft centers, and an indulgent, melt-in-your-mouth texture that makes them truly irresistible."
 

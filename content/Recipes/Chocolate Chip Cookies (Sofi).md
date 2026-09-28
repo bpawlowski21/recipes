@@ -22,7 +22,6 @@ servings: 16 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 Brown-butter chocolate chip cookies, crisp at the edges and gooey in the center. 5 stars from 366 reviews.
 

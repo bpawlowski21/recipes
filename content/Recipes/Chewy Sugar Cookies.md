@@ -21,7 +21,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
   - cookies
 ---
 Handwritten recipe (printed clipping with handwritten additions). Original scan:

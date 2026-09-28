@@ -22,7 +22,6 @@ servings: 8 bagels
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 Karli Bitner, "Cooking with Karli" (noted by hand on the printed card). "Making bagels at home does not have to be difficult. This asiago cheese bagel recipe yields the extraordinarily flavorful bagels with the most delightful bagel texture known to man."
 

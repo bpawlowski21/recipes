@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Ligurian Focaccia (Samin Nosrat) (handwritten).pdf]]
 

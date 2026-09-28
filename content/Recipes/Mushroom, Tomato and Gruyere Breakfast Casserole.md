@@ -24,7 +24,6 @@ servings: Serves 8
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 This hearty breakfast meal, full of fresh tomatoes and mushrooms, gets much of its terrific flavor and texture from the English muffins that line the bottom of the dish.
 

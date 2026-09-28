@@ -26,7 +26,6 @@ servings: 8
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 ![[Big Italian Chopped Salad (handwritten).pdf]]
 

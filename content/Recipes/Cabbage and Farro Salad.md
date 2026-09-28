@@ -27,7 +27,6 @@ servings: 4 to 5
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram comment screenshot (intro not fully captured, but the author's message was about growth/joy "not just applying to food... an allegory for growth in all arenas of life"). Ready in about 30 minutes.
 

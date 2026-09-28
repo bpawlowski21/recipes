@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
   - "incomplete"
   - "incomplete"
 ---

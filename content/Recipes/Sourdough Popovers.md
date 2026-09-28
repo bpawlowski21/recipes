@@ -21,7 +21,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
 servings: 6 popovers (recipe can be doubled to make 12)
 ---
 ## Ingredients

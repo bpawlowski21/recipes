@@ -23,7 +23,6 @@ servings: 1
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "This Japanese noodle stir-fry is one of my favorite quick dinners!" Prep time: 15 minutes.
 

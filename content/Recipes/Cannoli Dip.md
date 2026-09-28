@@ -24,7 +24,6 @@ servings: 16
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 Tawnie Graham of Kroll's Korner. "This Cannoli Dip is a deconstructed version of your favorite Italian dessert, perfect for dipping cookies, fruit, or waffle cones. Ready in just 10 minutes, it's the ultimate party treat!"
 

@@ -25,7 +25,6 @@ servings: Serves 4
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 This classic egg and potato dish is called a tortilla in Spain. Serve it warm or at room temperature for breakfast or at brunch.
 

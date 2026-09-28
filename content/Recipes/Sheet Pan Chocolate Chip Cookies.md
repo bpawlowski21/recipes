@@ -22,7 +22,6 @@ servings: 24 squares
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Tawnie Graham of Kroll's Korner. "These chewy Sheet Pan Chocolate Chip Cookies are made in one bowl, no scooping required, no mixers, and uses only one sheet pan! This recipe is great for a crowd and is a convenient and delicious way to making a large quantity of cookies with minimal effort and cleanup."
 

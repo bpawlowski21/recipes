@@ -20,7 +20,6 @@ servings: 50-60 meatballs
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 Emailed to Wendy Nash by Linda Nash (LN Marketing), December 17, 2005. "Probably the most popular hors d'oeuvres in the book."
 

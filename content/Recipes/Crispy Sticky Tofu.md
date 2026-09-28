@@ -22,7 +22,6 @@ servings: 2
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "This sticky tofu is crispy on the outside with a sweet sticky glaze. The perfect dinner with rice and veggies and easy to make in 15 minutes."
 

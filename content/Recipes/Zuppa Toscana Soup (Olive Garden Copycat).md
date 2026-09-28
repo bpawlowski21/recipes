@@ -24,7 +24,6 @@ servings: 6
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "A hearty, comforting bowl of Olive Garden's famous Zuppa Toscana Soup." "5 from 24 votes."
 

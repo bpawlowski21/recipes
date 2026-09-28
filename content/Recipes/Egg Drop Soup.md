@@ -22,7 +22,6 @@ servings: 6
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 "This easy egg drop soup recipe will taste just like your favorite Chinese restaurant's egg drop soup (maybe a little better). It's delicious, and can be made in minutes." "4.95 from 615 votes." Calories: 109kcal.
 

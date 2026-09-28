@@ -21,7 +21,6 @@ servings: about 3 cups
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Prep Time: 5 minutes
 

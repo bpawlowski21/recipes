@@ -27,7 +27,6 @@ servings: Serves 4
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Chicken Cacciatore with Crisp Polenta (handwritten).pdf]]
 

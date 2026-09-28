@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Vegetarian Avgolemono Soup (Greek Lemon Chickpea Soup)." "Craving a bowl of cozy Mediterranean comfort food? This vegetarian avgolemono soup is rich, creamy, and packed with bright lemon flavor! Inspired by the Greek classic, it keeps the same signature tang and velvety texture (just with a vegetarian twist). Bonus: it all comes together in one pot!" A different (vegetarian, chickpea-based) recipe from the other saved [[Chicken Avgolemono Soup (Incomplete)]] — these pages were scanned out of physical order but belong to one recipe.
 

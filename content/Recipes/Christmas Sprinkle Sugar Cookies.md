@@ -21,7 +21,6 @@ servings: 40 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Tawnie Graham of Kroll's Korner. "These Christmas Sprinkle Sugar Cookies are soft, chewy, and buttery, with festive red and green sprinkles in every bite! Easy to make with simple ingredients, they are perfect for cookie swaps, holiday parties, or cozy nights at home."
 

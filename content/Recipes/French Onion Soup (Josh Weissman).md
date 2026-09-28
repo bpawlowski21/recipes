@@ -25,7 +25,6 @@ servings: 7 (1 cup per person; about 1½ qt/1.5 liters total)
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("ONION SOUP"), photographed from a Josh Weissman cookbook (pages 219–220). "This is the soup that calls your name as soon as the weather turns cold. Sweet caramelized onions, rich beef stock, crunchy bread, melty cheese — everything you could want in a single sip of soup."
 

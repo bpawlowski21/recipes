@@ -23,7 +23,6 @@ servings: 8
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 ![[Gazpacho (Epicurious) (handwritten).pdf]]
 

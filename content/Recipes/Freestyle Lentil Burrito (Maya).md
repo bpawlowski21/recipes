@@ -23,7 +23,6 @@ servings: 3
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault (Thai Red Curry, Lentil Shepherd's Pie, Stuffed Cabbage Rolls). "This burrito was pretty much freestyled but tastes SO GOOD! The combination of the lentils with the fresh veggie salsa and the creamy sauce, all wrapped in a tortilla and grilled until slightly crispy."
 

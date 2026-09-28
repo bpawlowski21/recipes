@@ -23,7 +23,6 @@ servings: 22 cookies
 created: 2026-07-28
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Prep Time: 10 Min · Cook Time: 20 Min · Total Time: 30 Min.
 

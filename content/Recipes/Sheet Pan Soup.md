@@ -24,7 +24,6 @@ servings: 4
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Total Time: 55 minutes. Diet: Vegetarian.
 

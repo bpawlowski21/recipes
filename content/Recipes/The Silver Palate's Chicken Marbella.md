@@ -25,7 +25,6 @@ servings: 6 to 8
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Recipe from 'The Silver Palate Cookbook'." A different recipe from the other saved [[Chicken Marbella (Updated Silver Palate Recipe)]] (Elizabeth Lindemann) — coincidentally, both got handwritten notes preferring boneless skinless chicken thighs over the original whole-chicken version. "If there's such a thing as boomer cuisine, it can be found in the pages of 'The Silver Palate Cookbook' by Sheila Lukins and Julee Rosso. With its chirpy tone and 'Moosewood'-in-the-city illustrations, the book, published in time for Mother's Day in 1982, gave millions of home cooks who hadn't mastered the art of French cooking the courage to try sophisticated dishes like escabeche, wild mushroom soup and that new thing called pesto. This recipe, also in the book, came to The Times in a 2007 article celebrating the 25th anniversary edition. The briny-sweet combination once seemed as risky (capers! prunes!) as the East Village, but now it's considered as classic as Grand Central." —Christine Muhlke
 

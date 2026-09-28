@@ -23,7 +23,6 @@ servings: 20 pieces
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This crunchy toffy melts in your mouth and has a wonderful finish of chocolate and lots of delicious pecans."
 

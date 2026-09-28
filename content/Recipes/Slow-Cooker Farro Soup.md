@@ -23,7 +23,6 @@ servings: 4
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Cook Time: 8 hrs. Prep Time: 5 mins.
 

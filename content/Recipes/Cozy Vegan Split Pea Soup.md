@@ -24,7 +24,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "This vegan split pea soup is incredibly smooth, flavorful and nutritious. It features sweet butternut squash along with celery, peas and spinach to give it a fresh take on the original. Smoked paprika, onion and garlic give it depth of flavor."
 

@@ -23,7 +23,6 @@ servings: 3 cups
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 Handwritten corrections on the printed card (a different, distinct Tzatziki recipe from the one already in the vault — this one is by Eli K. Giannopoulos, uses 500g strained Greek yogurt, olive oil, and red wine vinegar). Original scan:
 

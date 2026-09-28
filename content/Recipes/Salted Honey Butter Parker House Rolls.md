@@ -21,7 +21,6 @@ servings: 12 rolls
 created: 2026-07-29
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Salted Honey Butter Parker House Rolls (handwritten).pdf]]
 

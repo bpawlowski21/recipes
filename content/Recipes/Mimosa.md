@@ -27,7 +27,6 @@ servings: 4 variations, 1 drink each
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
   - "Holiday"
 ---
 Saved from Apple Notes ("Holiday Prosecco drinks"), an Instagram Reel screenshot with 4 holiday mimosa variations, transcribed from the on-screen caption text.

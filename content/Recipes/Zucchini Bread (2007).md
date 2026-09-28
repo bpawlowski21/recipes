@@ -25,7 +25,6 @@ servings: 2 loaves or approximately 24 muffins
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 Adapted from several sources. A different, earlier Smitten Kitchen zucchini bread recipe than the one already in the vault ([[Zucchini Bread]], the site's later "Ultimate Zucchini Bread").
 

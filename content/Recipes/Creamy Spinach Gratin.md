@@ -24,7 +24,6 @@ servings: 6
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Easily made with frozen spinach, smooth cream cheese, flavorful spices and a blend of decadent cheeses, this spinach gratin recipe is pure comfort food! It is an irresistible side dish that serves as the perfect accompaniment to any weeknight or holiday dinner. It's so thick and cheesy that you could also serve it as a dip to get the festivities started with a decadent appetizer.
 

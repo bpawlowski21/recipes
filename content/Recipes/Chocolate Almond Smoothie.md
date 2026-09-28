@@ -24,7 +24,6 @@ servings: 1
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 A simple and refreshing chocolate treat with an almond twist!
 

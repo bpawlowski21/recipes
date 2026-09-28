@@ -22,7 +22,6 @@ servings: Makes about 3 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Dark Chocolate Cookies with Sour Cherries (handwritten).pdf]]
 

@@ -22,7 +22,6 @@ servings: 24 bars
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 From TODAY. "Nothing screams a summer dessert to me more than lemon bars. They're bright, creamy and a delicious treat to bring along to your next outdoor picnic or barbecue!"
 

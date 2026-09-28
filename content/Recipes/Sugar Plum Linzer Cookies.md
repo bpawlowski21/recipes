@@ -23,7 +23,6 @@ servings: 24 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "'Twas Christmas cookie season and all the watering mouths couldn't stop from eating these Linzer Cookies, not even the grouch. If you're prone to visions of sugar plums dancing through your head, these Sugar Plum Linzer Cookies are just for you!"
 

@@ -25,7 +25,6 @@ servings: 2
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post ("Veganuary 7/25 — 25 recipes in 25mins: Tofu Döner"). "In honor of the national German 'Dönerstag' we have this beautiful Tofu Döner today!" Prep time: 20 minutes.
 

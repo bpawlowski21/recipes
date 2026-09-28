@@ -23,7 +23,6 @@ servings: 5
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault ("Veganuary Nr. 7"). "Here's how to make your own vegan chicken... You can prep it ahead of time and store it during the week in the fridge or freezer." Prep time: 1 hour.
 

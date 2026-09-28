@@ -23,7 +23,6 @@ servings: 18 cookies
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 A different recipe from the other saved [[Brown Butter Toffee Cookies]] (Sam Merritt) — this one adds dark chocolate alongside the toffee.
 

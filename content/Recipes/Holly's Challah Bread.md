@@ -21,7 +21,6 @@ servings: 1 loaf
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Total time: 3 hours 30 minutes
 

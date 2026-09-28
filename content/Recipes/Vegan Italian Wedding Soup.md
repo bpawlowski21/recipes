@@ -23,7 +23,6 @@ servings: 8
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "Italian wedding is a comfort food classic and this vegan version is just as cozy as the original. Tender meatless meatballs are swimming in a savory vegetable broth with veggies, greens and herbs. Add in tiny orzo pasta and you have a satisfying bowl of soup that you will be dreaming about making all winter long." Calories: 263
 

@@ -23,7 +23,6 @@ servings: 28 cookies
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Total Time: 60 minutes. From Molly Yeh's *Molly on the Range*.
 

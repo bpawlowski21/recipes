@@ -23,7 +23,6 @@ servings: 12 as a side dish, 6 to 8 as a main course
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Leek Bread Pudding (handwritten).pdf]]
 

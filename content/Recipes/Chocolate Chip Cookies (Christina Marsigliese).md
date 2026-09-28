@@ -23,7 +23,6 @@ servings: 5 huge cookies
 created: 2026-07-29
 last: 2026-08-12
 tags:
-  - reference
 ---
 ![[Chocolate Chip Cookies (Christina Marsigliese) (handwritten).pdf]]
 

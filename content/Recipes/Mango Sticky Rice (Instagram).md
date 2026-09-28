@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post (2 slides). A second, separately-saved mango sticky rice recipe also exists in the vault from a saved Epicurious link (see "Sticky Rice with Mango" — that one wasn't auto-fetchable, so this Instagram version currently has the only captured instructions).
 

@@ -21,7 +21,6 @@ created: 2026-07-29
 last: 2026-07-29
 tags:
   - "technique"
-  - "reference"
 ---
 Saved from Apple Notes ("Griddle temperatures"), photographed from an electric griddle's instruction manual (page 5) — a reference table, not a recipe.
 

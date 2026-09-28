@@ -24,7 +24,6 @@ servings: 2 dozen
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 "Baker By Nature" (site name, noted by hand on the printed card). "Amaretto Chocolate Truffles are so indulgent and make a fantastic holiday gift! These melt-in-your-mouth chocolate confections are spiked with amaretto liqueur and almond extract, so they're busting with almond flavor. Use milk chocolate, dark chocolate, or a combination of both!"
 

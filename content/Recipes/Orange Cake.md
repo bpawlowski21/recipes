@@ -23,7 +23,6 @@ servings: 12 slices
 created: 2026-08-12
 last: 2026-08-12
 tags:
-  - "reference"
 ---
 "This Orange Cake is so fluffy and soft, with a delicious Orange Syrup, and a tangy Orange Cream Cheese Glaze on top."
 

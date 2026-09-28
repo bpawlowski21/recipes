@@ -24,7 +24,6 @@ servings: 16
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - reference
 ---
 ![[7 Layer Dip (handwritten).pdf]]
 

@@ -24,7 +24,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Recipe courtesy of Ina Garten (Barefoot Contessa, Show: "Like a Kid in the Candy Store" and "What Are Friends For?"; from Barefoot Contessa Family Style). Handwritten annotations throughout. Original scan:
 

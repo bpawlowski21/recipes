@@ -21,7 +21,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 servings: 16 in approximately 2-inch squares
 ---
 ## Ingredients

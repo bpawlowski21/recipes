@@ -25,7 +25,6 @@ created: 2026-07-30
 last: 2026-07-30
 tags:
   - "technique"
-  - "reference"
 ---
 ![[Technique - Bar Cookie Basics (handwritten).pdf]]
 

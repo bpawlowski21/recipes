@@ -23,7 +23,6 @@ servings: Makes 6 large or 12 small muffins
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Blueberry Muffins (handwritten).pdf]]
 

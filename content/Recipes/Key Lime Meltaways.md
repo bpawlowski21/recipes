@@ -22,7 +22,6 @@ servings: 5 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 You can make these with regular limes as well, but if you run into some key limes, they're worth it. You could also keep the logs frozen for up to two months, and use them as the meltaway craving hits.
 

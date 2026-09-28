@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-28
 last: 2026-07-28
 tags:
-  - "reference"
 servings: 4 pounds (1814g) of dough
 ---
 ## Ingredients

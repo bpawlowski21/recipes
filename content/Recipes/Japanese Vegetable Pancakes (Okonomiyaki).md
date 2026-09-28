@@ -24,7 +24,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 servings: 4 large pancakes or about 12-14 smaller ones
 ---
 ## Ingredients

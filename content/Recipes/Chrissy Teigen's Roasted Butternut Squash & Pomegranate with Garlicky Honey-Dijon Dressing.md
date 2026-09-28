@@ -23,7 +23,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-08-02
 tags:
-  - "reference"
 servings: 6
 ---
 ![[Chrissy Teigen's Roasted Butternut Squash & Pomegranate with Garlicky Honey-Dijon Dressing (handwritten).pdf]]

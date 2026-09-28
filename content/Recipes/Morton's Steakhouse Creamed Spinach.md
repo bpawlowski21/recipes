@@ -25,7 +25,6 @@ servings: 12
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 ![[Morton's Steakhouse Creamed Spinach (handwritten).pdf]]
 

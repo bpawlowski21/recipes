@@ -21,7 +21,6 @@ servings: 40 cookies
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 This is a great and easy recipe for Sugar Cookies and a sugar cookie frosting.
 

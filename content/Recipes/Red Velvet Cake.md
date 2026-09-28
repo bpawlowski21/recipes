@@ -23,7 +23,6 @@ servings: 16 servings
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This silky red velvet cake recipe is tender, moist and perfectly chocolatey. Sandwiched together with the dreamiest cream cheese frosting, this classic red velvet cake is a recipe you'll make for years to come!" 5 from 7 reviews.
 

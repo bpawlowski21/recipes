@@ -21,7 +21,6 @@ servings: 6 cups
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Half Baked Harvest. "Apple butter is basically just apple sauce, but thicker and spiced with warm autumn spices like cinnamon, nutmeg, and cloves. It's sweet, smooth, and possibly one of the most delicious spreads to put on toast during the fall season."
 

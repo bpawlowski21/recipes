@@ -24,7 +24,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("ONION SOUP"), photographed from an unidentified cookbook, p.10 ("Soups and Salads" chapter) — a second, different French Onion Soup recipe alongside the Josh Weissman version also saved in the same note.
 

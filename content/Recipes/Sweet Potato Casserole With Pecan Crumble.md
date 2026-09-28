@@ -26,7 +26,6 @@ servings: 6-8
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Sweet Potato Casserole With Pecan Crumble (handwritten).pdf]]
 

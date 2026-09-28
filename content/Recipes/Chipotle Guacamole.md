@@ -23,7 +23,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes as a news article ("Beloved Burrito Chain Reveals Its Top-Secret Guacamole Recipe") about Chipotle publishing its own guacamole recipe. Restaurant scale is 48 avocados per batch, multiple batches a day.
 

@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes as an Instagram Reel screenshot ("Hors d'oeuvres" note), transcribed from the on-screen caption text.
 

@@ -22,7 +22,6 @@ servings: 25 cookies
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Linzer Cookies (handwritten).pdf]]
 

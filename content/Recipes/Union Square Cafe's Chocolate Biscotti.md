@@ -23,7 +23,6 @@ servings: 60 to 80 biscotti
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - "reference"
 ---
 ![[Union Square Cafe's Chocolate Biscotti (handwritten).pdf]]
 

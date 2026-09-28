@@ -21,7 +21,6 @@ servings: 8 pitas
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post by the same author as the other "Maya" recipes in this vault. "I'm eating pitas nearly every single day, so I decided it's time to make them myself... It's honestly so easy yet so delicious and fluffy!" Prep time: 90 minutes.
 

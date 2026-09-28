@@ -25,7 +25,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post via @plantbasedvegans, credited to @plantbasedrd. "As the biggest fan of any mango and lime combo... this changed my mind on chia pudding. Sweet, tangy and a good way to support digestion."
 

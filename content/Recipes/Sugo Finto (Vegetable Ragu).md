@@ -23,7 +23,6 @@ servings: 3 to 4
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Saved from Apple Notes ("VEGAN - insta"), an Instagram post. "Naturally vegan: Sugo finto/scappato. It means fake or escaped sauce. It's prepared exactly like a classic ragù sauce, but without meat, so 'escaped' in the sense that the meat has escaped from the pot. It's basically a vegetable ragu and it's sooo good! The trick is to cook it long and slow."
 

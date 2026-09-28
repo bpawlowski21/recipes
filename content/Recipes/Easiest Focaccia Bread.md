@@ -20,7 +20,6 @@ passover_recipes: false
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - reference
 ---
 Cold, refrigerated dough is the secret to making delicious focaccia! Allowing the dough to rest 18 to 24 hours (or as long as 3 days) in the fridge yields extra-pillowy and airy focaccia, though if pressed for time, it can be made start-to-finish in 3 hours. Adapted from the focaccia recipe in *Bread Toast Crumbs*.
 

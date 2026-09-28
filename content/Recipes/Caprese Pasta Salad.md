@@ -24,7 +24,6 @@ servings: 6
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "This Caprese Pasta Salad is our favorite side dish recipe for the summer. It's ideal to make in advance and takes less than 30 minutes. With juicy cherry tomatoes, mozzarella pearls, and a balsamic vinaigrette, everyone will love this recipe."
 

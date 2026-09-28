@@ -21,7 +21,6 @@ servings: About 5 dozen
 created: 2026-08-02
 last: 2026-08-02
 tags:
-  - reference
 ---
 ![[Christmas Cutouts with Vanilla Icing (handwritten).pdf]]
 

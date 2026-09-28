@@ -21,7 +21,6 @@ servings: 2 loaves
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 "My Mother's Peasant Bread: The Best Easiest Bread You Will Ever Make" — a sticky, no-knead dough baked in small oven-safe bowls (two 1-qt bowls, or ramekins for mini loaves).
 

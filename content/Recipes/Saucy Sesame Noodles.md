@@ -24,7 +24,6 @@ servings: []
 created: 2026-07-29
 last: 2026-07-29
 tags:
-  - "reference"
 ---
 Printed from a Google "AI Overview" search result rather than a blog or cookbook. "This recipe for Saucy Sesame Noodles produces a rich, creamy, and slightly spicy dish in about 15-20 minutes. The key to making them exceptionally saucy is using a combination of peanut butter (or tahini) and starchy noodle water to create an emulsified, clingy sauce."
 

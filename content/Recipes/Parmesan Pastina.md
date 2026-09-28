@@ -23,7 +23,6 @@ servings:
 created: 2026-07-30
 last: 2026-07-30
 tags:
-  - "reference"
 ---
 Saved from an Instagram post (4,232 likes, 125 comments). "I posted a Pastina recipe a while ago and mentioned that my Grandmother made Pastina several different ways and many asked me to show the other ways. This is the OG way that probably got made the most often simply because of its ease. From start to finish it literally took a mere 10 minutes. On cold mornings Grandma would make a pot and serve to us for breakfast and she fed this to every single one of my kids when food was first introduced to them. It's nostalgic and comforting and delicious and yes, made all the better because it's so easy to make."
 
